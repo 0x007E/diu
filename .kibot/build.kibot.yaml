@@ -122,6 +122,7 @@ outputs:
           monochrome: true
         - layers: [ F.Silkscreen, User.Drawings2 ]
           sheet: '(Top Drawings2)'
+          monochrome: true
           mirror: false
         - layers: [ B.Silkscreen, User.Drawings2 ]
           sheet: '(Bottom Drawings2)'
