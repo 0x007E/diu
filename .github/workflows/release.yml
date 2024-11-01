@@ -173,7 +173,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./artifact/kicad/schematic/MAD-schematic.pdf
+        asset_path: ./artifact/kicad/schematic/DIU-schematic.pdf
         asset_name: schematic.pdf
         asset_content_type: application/pdf
 
@@ -213,7 +213,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./artifact/kicad/drill/MAD-drill_map.pdf
+        asset_path: ./artifact/kicad/drill/DIU-drill_map.pdf
         asset_name: drill.pdf
         asset_content_type: application/pdf
 
