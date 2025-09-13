@@ -1,4 +1,4 @@
-[![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/diu) ![Build](https://github.com/0x007e/diu/actions/workflows/release.yml/badge.svg) [![License CC By-NC-SA](https://img.shields.io/badge/Hardware-CC--BY--NC--SA--4.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+[![Version: 1.0 Release](https://img.shields.io/badge/Version-1.0%20Release-green.svg)](https://github.com/0x007e/diu) [![License CC By-NC-SA](https://img.shields.io/badge/Hardware-CC--BY--NC--SA--4.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) [![License GPLv3](https://img.shields.io/badge/Firmware-GPLv3-lightgrey)](https://www.gnu.org/licenses/gpl-3.0.html) ![Build](https://github.com/0x007e/diu/actions/workflows/release.yml/badge.svg)
 
 # `DIU` - Digital (Analog) Clock (Digitaluhr)
 
