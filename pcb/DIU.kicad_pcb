@@ -438,7 +438,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/8e309088-0672-4ed8-b6a6-1c30813d4205")
     (attr smd)
     (fp_text reference "R13" (at 0 -1.82 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp ed01bd08-d2ba-4967-9fdd-d7956c8617ff)
     )
     (fp_text value "68" (at 0 1.82 90) (layer "F.Fab") hide
@@ -494,7 +494,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/3731f129-c98a-40ee-8ddf-64cc6f0135db")
     (attr smd)
     (fp_text reference "R44" (at -0.000001 -1.82 66) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 3058b86b-6697-4c21-a21f-55092f3a34d7)
     )
     (fp_text value "68" (at -0.000001 1.819999 66) (layer "F.Fab") hide
@@ -550,7 +550,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/dd6b8d7a-221f-438e-aed2-f5f20b4ec5ec")
     (attr smd)
     (fp_text reference "R37" (at 0 -1.82 108) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 14eed051-a3fd-4b2e-a8f2-bebabaa41e25)
     )
     (fp_text value "68" (at -0.000001 1.819999 108) (layer "F.Fab") hide
@@ -606,7 +606,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/886501d0-3835-4051-af38-9cf40856e363")
     (attr smd)
     (fp_text reference "R79" (at 0 -1.82 36) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 8f020798-70e0-4141-8619-4a5098b19301)
     )
     (fp_text value "68" (at 0.000001 1.82 36) (layer "F.Fab") hide
@@ -662,7 +662,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/891f8af7-5c05-42d0-b477-dbb14c1277c0")
     (attr smd)
     (fp_text reference "D65" (at 0 -1.820001 120) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 1a9c2fad-76a3-43d8-a095-44e5d8d51aec)
     )
     (fp_text value "LED" (at 3.175098 0.001789 120) (layer "F.Fab")
@@ -722,7 +722,7 @@
     (path "/4410493a-4660-43fb-a126-c8ea1569c804")
     (attr smd)
     (fp_text reference "Q1" (at -2.7455 -0.061 90) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp b95df4bc-88da-4a04-8f51-1b06a8bdad58)
     )
     (fp_text value "2N7002E" (at 1.6995 0.066 90) (layer "F.Fab")
@@ -795,7 +795,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/f173d471-24db-460b-8b98-8c2ee861822f")
     (attr through_hole)
     (fp_text reference "J11" (at 0 -2.77 90) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9ac56072-1eed-4b0c-8a0b-4d2ee544c5a3)
     )
     (fp_text value "Conn_01x21_Socket" (at -2.159 25.4 -180) (layer "F.Fab")
@@ -899,7 +899,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/e554c944-d016-4a2b-99b4-416dc04f78ea")
     (attr smd)
     (fp_text reference "D2" (at 0 -1.820001 150) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp b515ba40-5cfc-4a31-9d00-fb47efe769b5)
     )
     (fp_text value "LED" (at 0 1.82 150) (layer "F.Fab")
@@ -959,7 +959,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/4af3d6f5-c9cb-4870-a549-b88961d4db7b")
     (attr smd)
     (fp_text reference "R43" (at -0.000001 -1.82 72) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp db1d4ff9-985b-4263-ba39-12ba6d2e0913)
     )
     (fp_text value "68" (at 0 1.819999 72) (layer "F.Fab") hide
@@ -1015,7 +1015,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/b51f8d52-2782-485c-9a84-8c7c5d6befbb")
     (attr smd)
     (fp_text reference "D27" (at 0 -1.82 168) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 027555dc-1c78-4d37-9594-62563adcc576)
     )
     (fp_text value "LED" (at 3.226279 0.001124 168) (layer "F.Fab")
@@ -1075,7 +1075,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/caa90225-4da5-485c-b596-452f9f085799")
     (attr smd)
     (fp_text reference "R38" (at -0.000001 -1.820001 102) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9f1be27e-0e1e-4222-a85d-293c3b531f82)
     )
     (fp_text value "68" (at 0 1.819999 102) (layer "F.Fab") hide
@@ -1131,7 +1131,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/ec7c8b7c-abfd-4e63-b72e-6d33c79e8609")
     (attr smd)
     (fp_text reference "D13" (at 0 -1.82 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 1c2b0df0-9f8e-4470-ba0f-9d3ed5535bb9)
     )
     (fp_text value "LED" (at 3.048 0.006 90) (layer "F.Fab")
@@ -1191,7 +1191,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/3bf73dbe-92a0-42ed-8f78-e92d809e0b49")
     (attr smd)
     (fp_text reference "D25" (at 0 -1.82) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 29b38217-c86b-41cc-b550-7a938270a5c9)
     )
     (fp_text value "LED" (at 3.172 0) (layer "F.Fab")
@@ -1251,7 +1251,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/8eb34aca-e0b6-4d54-8a86-066093d499b4")
     (attr smd)
     (fp_text reference "R21" (at 0 -1.820001 30) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 3680f1d3-7afb-46ad-a096-d5786d448dce)
     )
     (fp_text value "68" (at 0 1.82 30) (layer "F.Fab") hide
@@ -1307,7 +1307,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/d6479b58-406c-4dcb-8659-143f31eedd9a")
     (attr smd)
     (fp_text reference "R19" (at 0 -1.82 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 3b9083c8-153c-411b-b9ec-56bde79127b8)
     )
     (fp_text value "68" (at 0 1.82 90) (layer "F.Fab") hide
@@ -1363,7 +1363,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/46c38bf8-a07d-4c79-942c-65c7321fa52c")
     (attr smd)
     (fp_text reference "R6" (at 0 -1.82 30) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 8cf45742-6358-4f2d-8f59-48c96b833899)
     )
     (fp_text value "68" (at 0 1.820001 30) (layer "F.Fab") hide
@@ -1419,7 +1419,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/b95281bd-a248-4070-bbc0-88dee3658685")
     (attr smd)
     (fp_text reference "R8" (at 0 -1.82 150) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 7138abfa-bc63-4967-9266-29b9d57b2e37)
     )
     (fp_text value "68" (at 0 1.820001 150) (layer "F.Fab") hide
@@ -1475,7 +1475,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/4522a359-d5de-460b-a2ef-a6d51610b37c")
     (attr smd)
     (fp_text reference "D66" (at 0.000001 -1.82 114) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 59c5413d-6421-4235-b8d1-56488184058b)
     )
     (fp_text value "LED" (at 3.187692 -0.090995 114) (layer "F.Fab")
@@ -1535,7 +1535,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/d03e0faa-54b3-4501-8e1a-ca44fb5c4c99")
     (attr smd)
     (fp_text reference "R39" (at 0 -1.82 96) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9fcd6842-c262-4353-b10c-ca5373eb78a5)
     )
     (fp_text value "68" (at -0.000001 1.819999 96) (layer "F.Fab") hide
@@ -1591,7 +1591,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/e2bae277-b524-4a5a-9ed9-78f37fb6167f")
     (attr smd)
     (fp_text reference "R41" (at -0.000001 -1.82 84) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 277ce192-c928-44c6-a5c2-c0e9d1d52471)
     )
     (fp_text value "68" (at 0 1.819999 84) (layer "F.Fab") hide
@@ -1647,7 +1647,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/6aaa4388-e6ec-4513-9b55-fa91e5d7572e")
     (attr smd)
     (fp_text reference "R4" (at 0 -1.82 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp dfcf33fa-a8ab-4f21-85b0-668007b7e3a5)
     )
     (fp_text value "68" (at 0 1.82 90) (layer "F.Fab") hide
@@ -1703,7 +1703,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/894a7098-6b93-4767-8421-ef7dd8133f4b")
     (attr smd)
     (fp_text reference "R31" (at 0.000001 -1.820001 144) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp f9e0de26-67e9-4eb5-a4ea-87bf715f797f)
     )
     (fp_text value "68" (at 0 1.819999 144) (layer "F.Fab") hide
@@ -1759,7 +1759,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/6a2ce35e-b28c-4682-98a5-2f04f41dff9b")
     (attr smd)
     (fp_text reference "D45" (at 0 -1.82 60) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 924274b6-150e-465b-828f-285410724e77)
     )
     (fp_text value "LED" (at 3.170181 -0.010304 60) (layer "F.Fab")
@@ -1819,7 +1819,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/970c1d2f-b157-4f61-876e-279011bb0897")
     (attr smd)
     (fp_text reference "R74" (at 0.000001 -1.819999 66) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 69450c4f-b5a2-4a7e-a03d-c9c36284ee13)
     )
     (fp_text value "68" (at 0.000001 1.82 66) (layer "F.Fab") hide
@@ -1875,7 +1875,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/983e9abb-8f31-45f0-97e7-c2bb0c5d6b9f")
     (attr smd)
     (fp_text reference "D70" (at 0 -1.82 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp d01db868-0a00-4c46-9a8a-1f23faf08114)
     )
     (fp_text value "LED" (at 3.426 0 90) (layer "F.Fab")
@@ -1935,7 +1935,7 @@
     (path "/b9831f61-43f6-48ac-b783-c73ba93bda06")
     (attr smd)
     (fp_text reference "R90" (at 0 -1.43) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9e63a404-14a1-49ab-a805-74db56a82976)
     )
     (fp_text value "1k" (at 0 1.43) (layer "F.Fab")
@@ -1991,7 +1991,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/2f8a75ad-38a6-42b9-b304-c3e52e859e2c")
     (attr smd)
     (fp_text reference "D6" (at 0 -1.82 30) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9a0c0cac-7c3a-44df-b6c7-31c010e16961)
     )
     (fp_text value "LED" (at 0 1.820001 30) (layer "F.Fab")
@@ -2051,7 +2051,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/80165590-6cd7-48e6-8a7f-822d92249aac")
     (attr smd)
     (fp_text reference "D53" (at 0 -1.819999 12) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 30f5cec8-6a45-4499-86f4-480f92051188)
     )
     (fp_text value "LED" (at 3.226278 -0.001124 12) (layer "F.Fab")
@@ -2111,7 +2111,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/dcb2321e-5caa-42ab-9cd8-85a4d8260412")
     (attr smd)
     (fp_text reference "D7" (at 0 -1.82) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9cad859e-e70a-4bc6-a779-dcf45773aaac)
     )
     (fp_text value "LED" (at 0 1.82) (layer "F.Fab")
@@ -2171,7 +2171,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/fff56c8b-8efd-4318-a035-4a891829b770")
     (attr smd)
     (fp_text reference "R73" (at 0 -1.819999 72) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 7585133c-8628-4ddd-afbe-bb988a95e60f)
     )
     (fp_text value "68" (at 0.000001 1.82 72) (layer "F.Fab") hide
@@ -2227,7 +2227,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/1ba5fc74-5ed4-4bb7-992f-9f583ba2d7d3")
     (attr smd)
     (fp_text reference "R3" (at 0 -1.820001 120) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 51f67eeb-e133-43e8-98fc-e07f42376e96)
     )
     (fp_text value "68" (at 0 1.82 120) (layer "F.Fab") hide
@@ -2283,7 +2283,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/e50ca1d6-7ac5-46b0-afbb-ddfa2d11df4c")
     (attr smd)
     (fp_text reference "R22" (at 0 -1.82) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp de75b377-000e-475d-b7a0-5b561d42ee69)
     )
     (fp_text value "68" (at 0 1.82) (layer "F.Fab") hide
@@ -2339,7 +2339,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/844ad9a3-f6b1-4bc6-8e87-c499e18d8973")
     (attr smd)
     (fp_text reference "D68" (at 0 -1.82 102) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp fe2e827f-6e4c-492a-9415-bba102fe398d)
     )
     (fp_text value "LED" (at 3.226279 -0.001124 102) (layer "F.Fab")
@@ -2399,7 +2399,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/e338c3bb-c0da-4073-8b36-a786f35b455b")
     (attr smd)
     (fp_text reference "D54" (at 0.000001 -1.819999 6) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp ad480a75-a7e3-44a2-af43-18ced27a9236)
     )
     (fp_text value "LED" (at 3.326304 -0.1297 6) (layer "F.Fab")
@@ -2459,7 +2459,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/56f190f1-47e7-4637-8b66-161689e4846b")
     (attr smd)
     (fp_text reference "R55" (at 0 -1.82) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp b826d149-71fd-4b0b-9e48-e36f4ee8dac0)
     )
     (fp_text value "68" (at 0 1.82) (layer "F.Fab") hide
@@ -2515,7 +2515,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/0905e181-a840-4e38-9036-cbf09257e4b6")
     (attr smd)
     (fp_text reference "R17" (at 0 -1.82 150) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 53955f7c-5694-4ae6-bbd8-aeb7b970b7cf)
     )
     (fp_text value "68" (at 0 1.820001 150) (layer "F.Fab") hide
@@ -2571,7 +2571,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/e3e4c23c-dc8e-4070-8a6e-a4b8664b07b8")
     (attr smd)
     (fp_text reference "R7" (at 0 -1.82) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 402f2072-5738-47fb-bb54-0bacf67ec836)
     )
     (fp_text value "68" (at 0 1.82) (layer "F.Fab") hide
@@ -2627,7 +2627,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/2b76c771-4605-4b90-975f-a45bfd2e6565")
     (attr through_hole)
     (fp_text reference "J14" (at 2.794 0.254) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 80c90886-681b-4a2e-af83-dceeda2df960)
     )
     (fp_text value "Conn_01x01_Socket" (at 9.144 0.762) (layer "F.Fab")
@@ -2689,7 +2689,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/417aedc5-a2f4-4609-a73f-cb6be5d01692")
     (attr smd)
     (fp_text reference "D71" (at 0 -1.82 84) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 8f033fea-1172-45d1-8370-13c5f5836b90)
     )
     (fp_text value "LED" (at 3.299755 -0.122908 84) (layer "F.Fab")
@@ -2749,7 +2749,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/418f669d-607c-4789-967a-123a41c709a1")
     (attr smd)
     (fp_text reference "R25" (at 0 -1.82) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp f93671d5-f301-43bc-92a1-35b7c99685a6)
     )
     (fp_text value "68" (at 0 1.82) (layer "F.Fab") hide
@@ -2805,7 +2805,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/18e642dc-1691-40db-a1bf-af284cacba4d")
     (attr smd)
     (fp_text reference "D23" (at 0 -1.820001 150) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 1b220e47-b6d1-49d2-9a4c-67eefa364099)
     )
     (fp_text value "LED" (at 3.095175 0.033 150) (layer "F.Fab")
@@ -2865,7 +2865,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/fa8d9e33-9b64-4119-83a8-f9445157ee75")
     (attr smd)
     (fp_text reference "R24" (at 0 -1.820001 120) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 25e1e0d8-3eb9-4cd9-90c3-7dcc7fb014f6)
     )
     (fp_text value "68" (at 0 1.82 120) (layer "F.Fab") hide
@@ -2921,7 +2921,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/e48a3dcf-f289-4c3e-9c9b-686fbd76ac8b")
     (attr smd)
     (fp_text reference "D76" (at 0.000001 -1.820001 54) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 7596c54e-e61a-42ca-81b2-55194437f13b)
     )
     (fp_text value "LED" (at 3.065872 0.139395 54) (layer "F.Fab")
@@ -2981,7 +2981,7 @@
     (path "/012d6e3c-97ca-4a45-a32c-a56ad352414b/f3184b08-1cb5-418e-b6f5-34e405ff710a")
     (attr smd)
     (fp_text reference "C8" (at -3.253 0) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp bdef3bda-9c4b-4610-ac04-6c58c5e432e8)
     )
     (fp_text value "100n" (at 0 1.85) (layer "F.Fab")
@@ -3037,7 +3037,7 @@
     (path "/79aeee6a-2bd2-45ec-a29c-1482a2a27422")
     (attr exclude_from_pos_files)
     (fp_text reference "H2" (at 0 -3.8 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 1a8098ff-f74e-4db5-a2d0-4d0fc8389379)
     )
     (fp_text value "M3" (at 0 3.8 90) (layer "F.Fab")
@@ -3070,7 +3070,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/d6592323-587b-472e-a0e4-81f46c968725")
     (attr smd)
     (fp_text reference "R34" (at -0.000001 -1.820001 126) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp f453eaa1-6fdb-4a92-94c6-9412b30fa7e8)
     )
     (fp_text value "68" (at 0 1.819999 126) (layer "F.Fab") hide
@@ -3126,7 +3126,7 @@
     (path "/74867b3f-9721-41ee-b0c3-223d9965ec6a")
     (attr smd)
     (fp_text reference "C5" (at 2.8956 0 180) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 74c27f68-2c06-4987-9a86-db647ebc5caf)
     )
     (fp_text value "100n" (at 0 1.85 90) (layer "F.Fab")
@@ -3182,7 +3182,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/5cfb0a79-ed67-4e9d-b0b4-098305e87229")
     (attr smd)
     (fp_text reference "D81" (at 0 -1.82 24) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 08ec2838-afac-4034-8555-bd7bdd44a6dd)
     )
     (fp_text value "LED" (at 3.084382 0.141045 24) (layer "F.Fab")
@@ -3242,7 +3242,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/092e2a43-f5ff-403b-b8c1-8e4353ee7651")
     (attr smd)
     (fp_text reference "D39" (at 0 -1.819999 96) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp b7ffb47f-46c6-4d63-8d3d-728c1aa7b32f)
     )
     (fp_text value "LED" (at 3.047146 0.096357 96) (layer "F.Fab")
@@ -3302,7 +3302,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/b02f7305-6443-4734-b2b1-9d66ca0ca5b9")
     (attr smd)
     (fp_text reference "R60" (at 0 -1.82 150) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp e428805c-e433-417c-b7ac-efc635df18a9)
     )
     (fp_text value "68" (at 0 1.820001 150) (layer "F.Fab") hide
@@ -3358,7 +3358,7 @@
     (path "/937a0b6d-0a23-47c4-af20-09936df00968")
     (attr smd)
     (fp_text reference "C7" (at -0.332 -1.85) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 66af4e57-7ce8-4944-ada3-178a3013f683)
     )
     (fp_text value "100n" (at 0 1.85) (layer "F.Fab")
@@ -3414,7 +3414,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/a74e8001-3a39-44c6-bf6c-a546b49f75f1")
     (attr smd)
     (fp_text reference "C18" (at 0.889 1.905) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp c7af36e6-2ec9-43e9-8cd0-bf8f0d99f959)
     )
     (fp_text value "100n" (at 0 1.85) (layer "F.Fab")
@@ -3470,7 +3470,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/d92351f6-af1c-45e8-82be-e583b4d3148e")
     (attr smd)
     (fp_text reference "D47" (at 0 -1.819999 48) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 8bd23291-21f1-4147-a172-6337bd91848f)
     )
     (fp_text value "LED" (at 3.137959 -0.014223 48) (layer "F.Fab")
@@ -3530,7 +3530,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/365f396a-cfa8-4d51-84ba-818b5bab1de2")
     (attr smd)
     (fp_text reference "D55" (at 0 -1.82) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 2fda120b-ef01-4058-9dfa-cdf9a8d83288)
     )
     (fp_text value "LED" (at 3.172 0) (layer "F.Fab")
@@ -3590,7 +3590,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/6fb5adbf-f20d-4885-bb2a-e1fcc38b19ca")
     (attr smd)
     (fp_text reference "D26" (at -0.000001 -1.82 174) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp f0d0a70d-01f6-4211-9816-848fed4c465d)
     )
     (fp_text value "LED" (at 3.073697 0.15625 174) (layer "F.Fab")
@@ -3650,7 +3650,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/6e6bec78-6a51-44bd-bf5e-f5efbe892d9c")
     (attr smd)
     (fp_text reference "D33" (at -0.000001 -1.82 132) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 36b2fedb-4ee6-4d52-8690-a354db667587)
     )
     (fp_text value "LED" (at 3.137959 0.014223 132) (layer "F.Fab")
@@ -3710,7 +3710,7 @@
     (path "/8ca9372a-c5ec-4290-80a0-a5d83d1ff7cf")
     (attr exclude_from_pos_files)
     (fp_text reference "FID3" (at 0 0 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 8d17a745-8583-4563-969b-9a7ab52c562a)
     )
     (fp_text value "ESD" (at 0.75 0 90) (layer "F.Fab") hide
@@ -4085,7 +4085,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/ab64ed97-9970-4111-933e-176c89c196c3")
     (attr smd)
     (fp_text reference "R40" (at 0 -1.82 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 2e92b649-5f4d-45a3-bc2a-a013dfc78475)
     )
     (fp_text value "68" (at 0 1.82 90) (layer "F.Fab") hide
@@ -4141,7 +4141,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/6218bd39-802e-4d8b-b8d2-27a56c851088")
     (attr smd)
     (fp_text reference "R62" (at 0 -1.819999 138) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 2da29b6c-15c7-45c5-a6d5-df5a8c803d6c)
     )
     (fp_text value "68" (at 0 1.820001 138) (layer "F.Fab") hide
@@ -4197,7 +4197,7 @@
     (path "/3b69f22e-84fc-4ce2-84da-fd4102eab107")
     (attr smd)
     (fp_text reference "C11" (at -1.257 -5.715 90) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 65af25c3-7b0b-4f4b-a9f1-6796dc1b7872)
     )
     (fp_text value "10u" (at -2.4 0 90) (layer "F.Fab")
@@ -4253,7 +4253,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/c3cebbd7-3dfa-4eeb-80ea-a42e8f6d36ad")
     (attr smd)
     (fp_text reference "R51" (at -0.000001 -1.819999 24) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp ee52ffe3-37c7-4dbb-96ad-0404dc661c43)
     )
     (fp_text value "68" (at -0.000001 1.82 24) (layer "F.Fab") hide
@@ -4309,7 +4309,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/e8559c62-c25d-420b-ad66-98d398aee7c1")
     (attr smd)
     (fp_text reference "R57" (at 0 -1.819999 168) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 7fa22c5c-6458-49cc-ba98-6ef40899ac68)
     )
     (fp_text value "68" (at -0.000001 1.820001 168) (layer "F.Fab") hide
@@ -4365,7 +4365,7 @@
     (path "/1d9b290d-cd99-4074-886d-958de5efa087")
     (attr smd)
     (fp_text reference "C1" (at 1.9174 -3.2258) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp f815631a-804a-4baf-a9e6-3a20f0fd50a2)
     )
     (fp_text value "100n" (at 0 1.43) (layer "F.Fab")
@@ -4421,7 +4421,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/20982c76-f11c-4a5f-bc59-488eb6e628a8")
     (attr smd)
     (fp_text reference "D31" (at 0 -1.82 144) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 569c836e-10f3-4141-87ec-cedafd6985f3)
     )
     (fp_text value "LED" (at 3.065871 0.139394 144) (layer "F.Fab")
@@ -4481,7 +4481,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/800e12a3-fc6d-48d9-9875-b617a543fbf3")
     (attr smd)
     (fp_text reference "D41" (at -0.000001 -1.819999 84) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp ef893379-4deb-4811-8f0d-1f2fc3510cf2)
     )
     (fp_text value "LED" (at 3.299754 -0.122909 84) (layer "F.Fab")
@@ -4541,7 +4541,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/5b82681a-e396-471b-8d94-ea3da1bf5f30")
     (attr smd)
     (fp_text reference "R53" (at -0.000001 -1.82 12) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9790a0d3-b9d8-4a0d-ae19-1655e7b79f71)
     )
     (fp_text value "68" (at 0 1.82 12) (layer "F.Fab") hide
@@ -4597,7 +4597,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/a3c8eb0f-bc2f-47c2-a90d-51b84d1d172c")
     (attr smd)
     (fp_text reference "D35" (at 0 -1.82 120) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 739d1e0d-da0f-41f8-b982-6a0f56fe1b1b)
     )
     (fp_text value "LED" (at 3.175097 0.001788 120) (layer "F.Fab")
@@ -4657,7 +4657,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/7021ae98-0674-4aa4-b750-36268ea618ea")
     (attr smd)
     (fp_text reference "R28" (at 0 -1.82 162) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp eaca76a3-f5c2-4012-b458-3ca71deb5d82)
     )
     (fp_text value "68" (at 0.000001 1.819999 162) (layer "F.Fab") hide
@@ -4713,7 +4713,7 @@
     (path "/fcbd8ec8-3af2-49e3-8657-8157dac176ec")
     (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 0 -3.8) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 549edc03-2ea2-4923-aa28-25b4e2704575)
     )
     (fp_text value "M3" (at 0 3.8) (layer "F.Fab")
@@ -4746,7 +4746,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/9b1fe676-a8f6-42ff-ade9-43b5435142e1")
     (attr smd)
     (fp_text reference "R56" (at -0.000001 -1.819999 174) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 4f30bc38-a8e3-4bc9-95ff-7ed410a8e8f3)
     )
     (fp_text value "68" (at 0 1.82 174) (layer "F.Fab") hide
@@ -4802,7 +4802,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/9cd09c97-79b8-42ab-954b-628f6ac832c0")
     (attr smd)
     (fp_text reference "D29" (at -0.000001 -1.82 156) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp a5e8bf76-673f-41e6-97a1-762ed3c3973e)
     )
     (fp_text value "LED" (at 3.084381 -0.141046 156) (layer "F.Fab")
@@ -4862,7 +4862,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/36893818-a576-45d0-8156-b6dc7fbe3c81")
     (attr smd)
     (fp_text reference "D22" (at 0 -1.82) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 1b141dd1-a0e5-47d9-a999-4da3a2f3adae)
     )
     (fp_text value "LED" (at 3.048 0.006) (layer "F.Fab")
@@ -4922,7 +4922,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/b591edbe-73f6-4546-aeb2-62b7bb5d6825")
     (attr smd)
     (fp_text reference "R10" (at 0 -1.82 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 041e4754-1601-48ee-8581-58393172335e)
     )
     (fp_text value "68" (at 0 1.82 90) (layer "F.Fab") hide
@@ -4978,7 +4978,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/4f3ed6c8-2b95-46b9-9ee3-e84732568cfe")
     (attr smd)
     (fp_text reference "D5" (at 0 -1.820001 60) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 1b9d8911-3604-45af-a245-ef1131ed60a7)
     )
     (fp_text value "LED" (at 0 1.82 60) (layer "F.Fab")
@@ -5038,7 +5038,7 @@
     (path "/218351e0-c4c0-4351-b18f-331311c0a8c9")
     (attr smd)
     (fp_text reference "U3" (at -2.921 -7.62 180) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp d5da20b1-1e57-4d1f-8f52-3d090b832f58)
     )
     (fp_text value "ATtiny1606-S" (at 4.826 0 180) (layer "F.Fab")
@@ -5153,7 +5153,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/06969886-4e1c-425f-84ed-aad6039c1754")
     (attr smd)
     (fp_text reference "D32" (at -0.000001 -1.82 138) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9d587107-b76d-4a8a-b92a-0593170280e5)
     )
     (fp_text value "LED" (at 3.137959 -0.014224 138) (layer "F.Fab")
@@ -5213,7 +5213,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/237a6c5f-d68d-4e31-a4f9-9afc2431213f")
     (attr through_hole)
     (fp_text reference "J12" (at 0 53.34) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp bc03d354-4733-44d7-aeee-169b123781bc)
     )
     (fp_text value "Conn_01x21_Socket" (at -2.159 25.273 90) (layer "F.Fab")
@@ -5317,7 +5317,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/e5ac14bc-14bb-4542-aa9b-dbc7d51f3d3e")
     (attr smd)
     (fp_text reference "R12" (at 0 -1.820001 30) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 2d7b575a-e7ea-499f-895e-54951d560d64)
     )
     (fp_text value "68" (at 0 1.82 30) (layer "F.Fab") hide
@@ -5373,7 +5373,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/8bedfa7c-a2fa-4f7c-b93d-1963dc4087e7")
     (attr smd)
     (fp_text reference "D24" (at 0 -1.820001 120) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 2858c8f6-8a8e-48a4-8755-a45a9edb2871)
     )
     (fp_text value "LED" (at 3.093591 -0.018256 120) (layer "F.Fab")
@@ -5433,7 +5433,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/4d978b6e-e4a1-46f6-ba49-dc0ab8e298e5")
     (attr smd)
     (fp_text reference "D1" (at 0 -1.82) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 896b3ab7-541a-4243-ae5f-4485f50677fa)
     )
     (fp_text value "LED" (at 0 1.82) (layer "F.Fab")
@@ -5493,7 +5493,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/fa1dfd9b-07c0-4189-a9b5-b1d2f27e7679")
     (attr smd)
     (fp_text reference "D77" (at 0 -1.820001 48) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 776df538-5e3a-4499-82f1-d6a28087bf7a)
     )
     (fp_text value "LED" (at 3.13796 -0.014223 48) (layer "F.Fab")
@@ -5553,7 +5553,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/07f2280e-23ca-42a1-ab99-3afa3fc8e956")
     (attr smd)
     (fp_text reference "D20" (at 0 -1.82 60) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp d535b3a0-3b87-4254-af33-1a37492f8080)
     )
     (fp_text value "LED" (at 3.095175 0.033001 60) (layer "F.Fab")
@@ -5613,7 +5613,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/f697c9c7-32ea-4e40-a893-1bc0a1116d20")
     (attr smd)
     (fp_text reference "D49" (at 0 -1.819999 36) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp f316eb3b-2ebd-415d-a16c-4d1df9a6c722)
     )
     (fp_text value "LED" (at 3.271361 0.009903 36) (layer "F.Fab")
@@ -5673,7 +5673,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/5da25357-87fe-4875-9e17-9693a8c1a3a1")
     (attr smd)
     (fp_text reference "R49" (at -0.000001 -1.82 36) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 6b0f4e4d-adfb-42a4-9d54-366af0457413)
     )
     (fp_text value "68" (at 0 1.82 36) (layer "F.Fab") hide
@@ -5729,7 +5729,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/437fb287-62f4-4e41-839c-8c90e8430968")
     (attr smd)
     (fp_text reference "D14" (at 0 -1.820001 60) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp d3ad2f28-551e-4efd-99f0-6e641e7317c7)
     )
     (fp_text value "LED" (at 3.095175 0.033 60) (layer "F.Fab")
@@ -5789,7 +5789,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/34db7c2f-eea9-48f4-ad29-e73b5a71c291")
     (attr smd)
     (fp_text reference "D72" (at 0.000001 -1.820001 78) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 513e65e6-41c1-4d7c-aff1-c0ea4a398bd7)
     )
     (fp_text value "LED" (at 3.226279 0.001125 78) (layer "F.Fab")
@@ -5849,7 +5849,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/49f783de-75b8-4c4e-bc20-220a4d0b2bd1")
     (attr smd)
     (fp_text reference "D63" (at 0.000001 -1.82 132) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 5bfe8dcf-bec7-495d-912d-8dfac4995a3c)
     )
     (fp_text value "LED" (at 3.137959 0.014224 132) (layer "F.Fab")
@@ -5909,7 +5909,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/881c2b54-f09a-43fd-828e-80c2b7fe52c1")
     (attr smd)
     (fp_text reference "R32" (at 0 -1.820001 138) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp c424e379-1d3e-4165-a598-603a02af3218)
     )
     (fp_text value "68" (at 0 1.819999 138) (layer "F.Fab") hide
@@ -5965,7 +5965,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/d2b8539f-c6ac-4ae4-a981-76b3b641b880")
     (attr smd)
     (fp_text reference "D4" (at 0 -1.82 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp ea3e1ee1-2a7d-4d35-9c80-7c5706ad7e98)
     )
     (fp_text value "LED" (at 0 1.82 90) (layer "F.Fab")
@@ -6025,7 +6025,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/6a6dc8da-32e8-43ab-bdc4-1689c6d19a71")
     (attr smd)
     (fp_text reference "D21" (at 0 -1.820001 30) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9a4621b6-85ed-4f8e-8dda-322fd6720bbd)
     )
     (fp_text value "LED" (at 3.093591 -0.018256 30) (layer "F.Fab")
@@ -6085,7 +6085,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/1d72124a-0d6a-423f-be19-b379b1b6dba4")
     (attr smd)
     (fp_text reference "D78" (at 0 -1.820001 42) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 28c01505-cd1b-4551-9df9-e56ac92d0e1c)
     )
     (fp_text value "LED" (at 3.13796 0.014223 42) (layer "F.Fab")
@@ -6145,7 +6145,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/9e90c426-f1b8-4d53-b5ad-959ae0167eb4")
     (attr smd)
     (fp_text reference "R15" (at 0 -1.82 30) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 4c52211b-c810-463f-a597-c4e3daad02b4)
     )
     (fp_text value "68" (at 0 1.820001 30) (layer "F.Fab") hide
@@ -6201,7 +6201,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/20dbb990-3402-4df2-87d6-69c77eda9234")
     (attr smd)
     (fp_text reference "D73" (at 0 -1.82 72) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 12efec7a-f568-4a07-9f64-e950268f95f3)
     )
     (fp_text value "LED" (at 3.116921 -0.158533 72) (layer "F.Fab")
@@ -6261,7 +6261,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/44cdbd76-fe79-4d96-87a9-a6335e4b7a82")
     (attr smd)
     (fp_text reference "R29" (at 0 -1.82 156) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp d15e27e0-8392-4836-a341-6a14912f5b4e)
     )
     (fp_text value "68" (at 0 1.819999 156) (layer "F.Fab") hide
@@ -6317,7 +6317,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/094080c9-9959-4c01-ab1f-0defe40dbcd6")
     (attr smd)
     (fp_text reference "D60" (at 0 -1.82 150) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 3d921d86-3dc4-4627-91f5-a02605b8e2fc)
     )
     (fp_text value "LED" (at 3.170181 -0.010304 150) (layer "F.Fab")
@@ -6377,7 +6377,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/0dd0b4e6-203b-47d0-ba33-242411053900")
     (attr smd)
     (fp_text reference "D30" (at 0 -1.820001 150) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 58c133d8-61f6-4d76-bacb-7c7ea260fa58)
     )
     (fp_text value "LED" (at 3.175098 -0.001789 150) (layer "F.Fab")
@@ -6437,7 +6437,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/0b50a193-df3f-4972-ad11-9a5601cb014d")
     (attr smd)
     (fp_text reference "D36" (at -0.000001 -1.819999 114) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp c1e5cc42-1ea8-412e-bb26-34051c31bf24)
     )
     (fp_text value "LED" (at 3.084381 0.141045 114) (layer "F.Fab")
@@ -6497,7 +6497,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/df3addf6-6a02-404d-b8a1-38fd884bbf59")
     (attr smd)
     (fp_text reference "R36" (at 0 -1.82 114) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp cb27d45d-48f5-417f-acc3-2d30ccc19241)
     )
     (fp_text value "68" (at 0 1.819999 114) (layer "F.Fab") hide
@@ -6553,7 +6553,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/63ef6eb8-c31e-4169-8686-5ad3a4db9dbc")
     (attr smd)
     (fp_text reference "D62" (at 0.000001 -1.82 138) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 1f734011-6d74-476c-85a5-d4807b05c67f)
     )
     (fp_text value "LED" (at 3.137959 -0.014223 138) (layer "F.Fab")
@@ -6613,7 +6613,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/d0934378-f2cb-463c-b465-baa22a36a46f")
     (attr smd)
     (fp_text reference "R9" (at 0 -1.82 120) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp ae107d80-c5fb-4ed5-a809-62c7dd5990bd)
     )
     (fp_text value "68" (at 0 1.820001 120) (layer "F.Fab") hide
@@ -6669,7 +6669,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/b2fce183-023d-4fc1-88f7-676538ae3d1c")
     (attr smd)
     (fp_text reference "R68" (at 0 -1.819999 102) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 92adc317-5074-4c8c-869f-78b436bc0674)
     )
     (fp_text value "68" (at 0.000001 1.820001 102) (layer "F.Fab") hide
@@ -6725,7 +6725,7 @@
     (path "/cb5d2d85-2ca0-4f5c-8fd2-2f2132df35bd")
     (attr smd)
     (fp_text reference "R98" (at 3.048 -0.508 90) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp ed58c411-5739-4ce9-88d0-7f53964aeaa8)
     )
     (fp_text value "1k" (at 0 1.82) (layer "F.Fab")
@@ -6781,7 +6781,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/46be423e-9cd1-42fa-bb91-1bb835b4c912")
     (attr smd)
     (fp_text reference "R5" (at 0 -1.820001 60) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp c7a3f761-4f6a-48a4-9975-4efc7148ebd5)
     )
     (fp_text value "68" (at 0 1.82 60) (layer "F.Fab") hide
@@ -6837,7 +6837,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/ec30f43e-644e-4e37-9a60-f681adc2f9e8")
     (attr smd)
     (fp_text reference "R77" (at 0.000001 -1.82 48) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp ad10be41-0ee3-4aa3-9236-837e0a06f328)
     )
     (fp_text value "68" (at 0.000001 1.82 48) (layer "F.Fab") hide
@@ -6893,7 +6893,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/606ed0f0-d839-4bf7-8b9d-734a8a45230b")
     (attr smd)
     (fp_text reference "D46" (at 0 -1.819999 54) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 893cfeb1-7278-4d5f-84ce-0d76c9cd1b65)
     )
     (fp_text value "LED" (at 3.271361 -0.009903 54) (layer "F.Fab")
@@ -6953,7 +6953,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/3e3eeb3b-ed84-4080-9eeb-2f9919d7c0a9")
     (attr smd)
     (fp_text reference "U7" (at 2.667 6.223 180) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 6106eb3b-4d5e-4f99-ab04-6f851221f151)
     )
     (fp_text value "74HC595" (at 0 6.2 180) (layer "F.Fab")
@@ -7056,7 +7056,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/4033fb11-a05b-47c6-b60f-c577773c4ef2")
     (attr smd)
     (fp_text reference "D16" (at 0 -1.82) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 6a0f9c98-b610-4e71-9fee-3625bdab520e)
     )
     (fp_text value "LED" (at 3.048 0.006) (layer "F.Fab")
@@ -7116,7 +7116,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/408dabb9-ad0b-404e-932e-e99450d3efc9")
     (attr smd)
     (fp_text reference "D40" (at 0 -1.82 -270) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9b120016-40e4-415c-a943-203a7c0f4c8d)
     )
     (fp_text value "LED" (at 3.172 0 -270) (layer "F.Fab")
@@ -7176,7 +7176,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/5fe50e1a-c025-45ac-8135-f35ae2979464")
     (attr smd)
     (fp_text reference "D58" (at 0 -1.819999 162) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp ba1f1e87-65de-4772-915c-c43aac6aebd2)
     )
     (fp_text value "LED" (at 3.11692 -0.158532 162) (layer "F.Fab")
@@ -7236,7 +7236,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/849894b1-a65e-44de-a263-edfdd30606ce")
     (attr smd)
     (fp_text reference "D79" (at -0.000001 -1.820001 36) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 51fe0f81-034a-46df-aa7e-a41686a0bb5c)
     )
     (fp_text value "LED" (at 3.271362 0.009903 36) (layer "F.Fab")
@@ -7296,7 +7296,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/7add0914-66fc-4369-8618-5cf85df6f8a1")
     (attr smd)
     (fp_text reference "D10" (at 0 -1.82 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 6ebc846b-1ee9-4f25-9a56-dc384f413aa4)
     )
     (fp_text value "LED" (at 0 1.82 -270) (layer "F.Fab")
@@ -7356,7 +7356,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/7a3b9a50-ca71-4c28-a7a6-f5b278c14452")
     (attr smd)
     (fp_text reference "D12" (at 0 -1.820001 30) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 34cb2380-6415-4f71-a3c0-646f87181c4d)
     )
     (fp_text value "LED" (at 0 1.82 30) (layer "F.Fab")
@@ -7416,7 +7416,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/016eb43b-4c31-4b6a-847f-28bd72c2af0b")
     (attr smd)
     (fp_text reference "D75" (at 0 -1.820001 60) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 090e5e53-6856-4d9c-a643-3f472d79766d)
     )
     (fp_text value "LED" (at 3.170181 -0.010305 60) (layer "F.Fab")
@@ -7476,7 +7476,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/2785404f-7348-4ea2-8a58-3faf806e10c2")
     (attr smd)
     (fp_text reference "R59" (at 0 -1.819999 156) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 60ba3dc6-89a2-4482-ae0a-78429fdb8727)
     )
     (fp_text value "68" (at 0 1.82 156) (layer "F.Fab") hide
@@ -7532,7 +7532,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/4689bfe0-5825-4634-b296-8c8a5e808bac")
     (attr smd)
     (fp_text reference "D67" (at 0.000001 -1.82 108) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 211ce455-a398-4fc1-92fd-74829b192dcc)
     )
     (fp_text value "LED" (at 3.195411 -0.083035 108) (layer "F.Fab")
@@ -7592,7 +7592,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/3c8de4dd-ef61-4a67-b861-2204fd8aa535")
     (attr smd)
     (fp_text reference "D37" (at 0 -1.819999 108) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 46baa536-8279-476e-ac3d-59b97c4d54aa)
     )
     (fp_text value "LED" (at 3.11692 0.158532 108) (layer "F.Fab")
@@ -7652,7 +7652,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/8c263d3d-9988-4d61-9000-f4f7455af7c2")
     (attr smd)
     (fp_text reference "R45" (at 0 -1.820001 60) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 195fec58-6c6c-41f7-a7ca-b2125a8564f2)
     )
     (fp_text value "68" (at 0 1.82 60) (layer "F.Fab") hide
@@ -7708,7 +7708,7 @@
     (path "/e80de817-4e43-49e4-a239-56e7af13e075")
     (attr smd)
     (fp_text reference "J18" (at -7.747 4.445 -180) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 7757f1e0-9731-481f-b9e2-f419b09d44f6)
     )
     (fp_text value "Battery" (at 0 -7 90) (layer "F.Fab")
@@ -7856,7 +7856,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/36a00b34-ade7-4d0e-911b-720dd07a2241")
     (attr smd)
     (fp_text reference "R26" (at 0 -1.82 174) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 4ffd810c-1ff9-480f-a654-e7b9e5390994)
     )
     (fp_text value "68" (at 0.000001 1.819999 174) (layer "F.Fab") hide
@@ -7912,7 +7912,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/a5855119-949d-4df2-8bcc-4e73b285af56")
     (attr smd)
     (fp_text reference "R63" (at 0 -1.819999 132) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 00a592c4-5c46-4d2a-a534-f3f3ab8bc56b)
     )
     (fp_text value "68" (at 0 1.820001 132) (layer "F.Fab") hide
@@ -7968,7 +7968,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/414376d1-ca6a-4f59-904d-de9be40b27e9")
     (attr smd)
     (fp_text reference "R76" (at 0.000001 -1.82 54) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 8be3354d-9af9-40b5-8284-5f6e9d63ecdf)
     )
     (fp_text value "68" (at 0 1.82 54) (layer "F.Fab") hide
@@ -8024,7 +8024,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/a4f824f2-e8bd-47d5-bf12-3db112397765")
     (attr smd)
     (fp_text reference "D52" (at 0.000001 -1.819999 18) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 05b0dc50-edad-47d5-bcd0-61286192b256)
     )
     (fp_text value "LED" (at 3.19541 -0.083035 18) (layer "F.Fab")
@@ -8084,7 +8084,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/b6435fef-55bb-4a70-985a-efec4b435800")
     (attr smd)
     (fp_text reference "R50" (at 0 -1.82 30) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp e798eeff-2d2d-443b-9498-154816867c2e)
     )
     (fp_text value "68" (at 0 1.820001 30) (layer "F.Fab") hide
@@ -8140,7 +8140,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/0e14ffc6-5f25-4a77-b58e-97113bd560d0")
     (attr smd)
     (fp_text reference "C19" (at 0.762 1.905) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp c73af25e-c331-49dd-901c-a7660a88359e)
     )
     (fp_text value "100n" (at 0 1.85) (layer "F.Fab")
@@ -8196,7 +8196,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/4f1d2b32-18e9-4dc2-b119-8a0afe47f51e")
     (attr smd)
     (fp_text reference "R54" (at 0 -1.819999 6) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 1525a557-8e5c-44ed-a686-c70fa21927db)
     )
     (fp_text value "68" (at -0.000001 1.82 6) (layer "F.Fab") hide
@@ -8252,7 +8252,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/d9ea5723-f851-48ce-8083-9fa3740ed8cf")
     (attr smd)
     (fp_text reference "D59" (at 0.000001 -1.819999 156) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 167d9ca4-fbe3-4830-aa91-3b7e07c3c0b4)
     )
     (fp_text value "LED" (at 3.084381 -0.141045 156) (layer "F.Fab")
@@ -8312,7 +8312,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/1785b4f6-5ef0-4e6d-964e-72994227ecaa")
     (attr smd)
     (fp_text reference "R35" (at 0 -1.820001 120) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 2035f255-b9b0-422c-938d-d5d2298c934c)
     )
     (fp_text value "68" (at 0 1.82 120) (layer "F.Fab") hide
@@ -8368,7 +8368,7 @@
     (path "/012d6e3c-97ca-4a45-a32c-a56ad352414b/2c36b84d-364a-4dfe-a699-4858cad7b748")
     (attr smd)
     (fp_text reference "U4" (at 1.905 6.35 90) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 27e36dbf-5cc0-4431-a5ec-06bbde94e1fb)
     )
     (fp_text value "74HC595" (at 0 6.2 90) (layer "F.Fab")
@@ -8471,7 +8471,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/81e02530-71d3-4e92-abd0-d77062c2d242")
     (attr smd)
     (fp_text reference "D3" (at 0 -1.820001 120) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp ff8a1a87-4ca5-4787-bf7f-dab576623039)
     )
     (fp_text value "LED" (at 0 1.82 120) (layer "F.Fab")
@@ -8531,7 +8531,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/86a17a83-8a94-4164-abaf-0833d68fc8fc")
     (attr smd)
     (fp_text reference "R71" (at 0 -1.819999 84) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 2080cd8e-e6c5-4c3f-af81-0176e1b855a7)
     )
     (fp_text value "68" (at 0.000001 1.82 84) (layer "F.Fab") hide
@@ -8587,7 +8587,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/8c7ba5f4-612b-46f6-8f28-70815e7f9057")
     (attr smd)
     (fp_text reference "R27" (at 0.000001 -1.820001 168) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp f4ace099-d9a7-4fd9-9bf9-64d60cb2e27c)
     )
     (fp_text value "68" (at 0 1.819999 168) (layer "F.Fab") hide
@@ -8643,7 +8643,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/35916582-2884-48a3-bf60-968ce5bcd67f")
     (attr smd)
     (fp_text reference "D50" (at 0 -1.82 30) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp d99459a4-3293-47ce-8c26-bcb0ac0d080f)
     )
     (fp_text value "LED" (at 3.175097 0.001788 30) (layer "F.Fab")
@@ -8703,7 +8703,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/cf70e768-c907-47d8-81f2-42980441d828")
     (attr smd)
     (fp_text reference "R78" (at 0.000001 -1.82 42) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 78ea7d24-0a3f-476b-85f4-16ed8f7e219c)
     )
     (fp_text value "68" (at 0.000001 1.82 42) (layer "F.Fab") hide
@@ -8759,7 +8759,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/3ad7ff91-baaf-4985-a323-dfc4c1dc3de2")
     (attr smd)
     (fp_text reference "R30" (at 0 -1.820001 150) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 3abbf419-51ee-4619-a94a-a9db5da52b19)
     )
     (fp_text value "68" (at 0 1.82 150) (layer "F.Fab") hide
@@ -8812,7 +8812,7 @@
     (property "ki_keywords" "fiducial marker")
     (path "/c4d805a9-cc68-4efe-aa6f-2cc39657065d")
     (fp_text reference "FID4" (at 0 5.08 unlocked) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.1)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 18dcdebb-27f6-47bc-a76f-418d962ada3f)
     )
     (fp_text value "QR" (at 0 -5.08 unlocked) (layer "F.Fab") hide
@@ -9715,7 +9715,7 @@
     (path "/a99f5172-3ec8-4b19-8131-c73b6489e478")
     (attr smd)
     (fp_text reference "R95" (at 2.858 1.27) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp c4be630e-95a9-409d-a261-618fababdbac)
     )
     (fp_text value "n.B." (at 0 -1.397) (layer "F.Fab")
@@ -9771,7 +9771,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/99822819-d172-4c38-a69f-92d4b264e0d2")
     (attr smd)
     (fp_text reference "R2" (at 0 -1.820001 150) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp aa85c3d5-15e3-4d0f-8e92-9e666ea75492)
     )
     (fp_text value "68" (at 0 1.82 150) (layer "F.Fab") hide
@@ -9827,7 +9827,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/af275fc5-613e-4fa4-8fb9-0cfc3a581ecb")
     (attr smd)
     (fp_text reference "D34" (at -0.000001 -1.82 126) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9b3c2954-9ae4-4c76-95d3-8e97ff904bdd)
     )
     (fp_text value "LED" (at 3.271361 0.009902 126) (layer "F.Fab")
@@ -9887,7 +9887,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/e8c8a2d2-346e-4a9b-9972-3c3fa7395129")
     (attr smd)
     (fp_text reference "R58" (at -0.000001 -1.819999 162) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 5f77d386-edb7-4410-83c9-fee368814e0b)
     )
     (fp_text value "68" (at 0 1.82 162) (layer "F.Fab") hide
@@ -9943,7 +9943,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/701d4c3d-7af9-4bd9-83cf-845bc5580aee")
     (attr through_hole)
     (fp_text reference "J9" (at 0 53.34) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 21d4e971-051c-4c9e-89ec-47bc0ca75076)
     )
     (fp_text value "Conn_01x21_Socket" (at -2.159 25.527 90) (layer "F.Fab")
@@ -10047,7 +10047,7 @@
     (path "/b8964678-867d-444c-aff6-643e0f6b1e33")
     (attr smd)
     (fp_text reference "R94" (at -0.0122 1.4732 90) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 0960012a-8a8b-45e8-9667-0de5d065ad23)
     )
     (fp_text value "0" (at 0 1.43 90) (layer "F.Fab")
@@ -10103,7 +10103,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/d50d2066-6094-4411-a287-4b18d6f84f5a")
     (attr smd)
     (fp_text reference "R67" (at 0.000001 -1.819999 108) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 31643d57-87bf-448a-a522-68492bf55602)
     )
     (fp_text value "68" (at 0 1.82 108) (layer "F.Fab") hide
@@ -10159,7 +10159,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/a58d8fe4-f6ae-4394-8dc9-0a2158c70dcc")
     (attr smd)
     (fp_text reference "D8" (at 0 -1.82 150) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp a67bfa1e-8669-4f03-818f-bbb653f186d4)
     )
     (fp_text value "LED" (at 0 1.820001 150) (layer "F.Fab")
@@ -10219,7 +10219,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/180f6886-8a26-4404-b6a3-22bad6282b9b")
     (attr smd)
     (fp_text reference "D57" (at 0.000001 -1.82 168) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9cd9aaba-5bf4-4034-bdd9-7848f2ed711f)
     )
     (fp_text value "LED" (at 3.226278 0.001125 168) (layer "F.Fab")
@@ -10279,7 +10279,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/24871288-c5a0-43a2-b6fb-dd62f63aff4f")
     (attr smd)
     (fp_text reference "D44" (at 0 -1.819999 66) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 5e2992fa-ded8-4441-bb70-d7e89577a01a)
     )
     (fp_text value "LED" (at 3.08438 -0.141046 66) (layer "F.Fab")
@@ -10339,7 +10339,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/b855d921-4933-4d91-b9ac-9db80757eb51")
     (attr through_hole)
     (fp_text reference "J17" (at 0 -2.159) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 351695fe-ed4b-4f8a-ac16-0787b4ca9c2e)
     )
     (fp_text value "Conn_01x01_Socket" (at 6.35 -3.302) (layer "F.Fab")
@@ -10401,7 +10401,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/06694a91-7221-4505-9b45-b7ecb48506e8")
     (attr smd)
     (fp_text reference "R84" (at 0.000001 -1.82 6) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 0a0ec1a9-db45-4dd4-befd-360e0f5fd0ac)
     )
     (fp_text value "68" (at 0 1.819999 6) (layer "F.Fab") hide
@@ -10457,7 +10457,7 @@
     (path "/414880a5-e78e-4200-883a-4fc4523a9231")
     (attr smd)
     (fp_text reference "U2" (at 0 -6.985) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp ffefbada-dfdf-4a06-b87c-75999187a4b1)
     )
     (fp_text value "FT232RL" (at 0 6.25) (layer "F.Fab")
@@ -10582,7 +10582,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/67ec3942-0f58-4fc3-9b23-d42009df406d")
     (attr smd)
     (fp_text reference "R20" (at 0 -1.82 60) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp e0ebaf5f-9491-4c00-bafa-17aad112146c)
     )
     (fp_text value "68" (at 0 1.820001 60) (layer "F.Fab") hide
@@ -10638,7 +10638,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/f5a4e601-3fed-4bca-9c49-2c138000c185")
     (attr smd)
     (fp_text reference "R33" (at 0 -1.820001 132) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 815250ee-d3d5-485b-8fd0-96e3e8c002d4)
     )
     (fp_text value "68" (at 0 1.819999 132) (layer "F.Fab") hide
@@ -10694,7 +10694,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/020d9bcb-20c1-4001-8805-a98516c9a38e")
     (attr smd)
     (fp_text reference "R46" (at 0 -1.82 54) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp c8bd9898-890a-4e60-9c02-b394086c6a2e)
     )
     (fp_text value "68" (at -0.000001 1.82 54) (layer "F.Fab") hide
@@ -10750,7 +10750,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/029de9bf-1319-4f5f-b08c-79de440b0284")
     (attr smd)
     (fp_text reference "R52" (at 0 -1.819999 18) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 1772c839-9ac4-4ca3-9dfa-de00210487d4)
     )
     (fp_text value "68" (at -0.000001 1.82 18) (layer "F.Fab") hide
@@ -10806,7 +10806,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/02d35c38-f786-49f8-8e32-7c899f77accd")
     (attr smd)
     (fp_text reference "R16" (at 0 -1.82) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 616c9dc1-5b78-4acd-ad11-5684c0caff1d)
     )
     (fp_text value "68" (at 0 1.82) (layer "F.Fab") hide
@@ -10862,7 +10862,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/c1777674-bbb9-44f3-b0c2-1d9d2c91a77f")
     (attr smd)
     (fp_text reference "R47" (at -0.000001 -1.82 48) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp c52a5f67-c6ee-4367-b59f-ca4c6f73af89)
     )
     (fp_text value "68" (at -0.000001 1.82 48) (layer "F.Fab") hide
@@ -10918,7 +10918,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/f0ef9ca5-f186-4e37-8820-7671f1c01b62")
     (attr smd)
     (fp_text reference "R61" (at 0 -1.819999 144) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 8cce60df-472f-4e8a-9d58-d9250c6c12a9)
     )
     (fp_text value "68" (at -0.000001 1.820001 144) (layer "F.Fab") hide
@@ -10974,7 +10974,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/49f09956-6808-4a41-a766-be6954a5997e")
     (attr smd)
     (fp_text reference "D83" (at -0.000001 -1.820001 12) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 4e59b1f9-987b-4904-bdd5-2741655513e1)
     )
     (fp_text value "LED" (at 3.226279 -0.001125 12) (layer "F.Fab")
@@ -11034,7 +11034,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/ba0d2a48-1c8e-418b-8b4e-e88adfe06733")
     (attr smd)
     (fp_text reference "D84" (at 0 -1.82 6) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 29f9d512-6690-4372-a948-c9d8dedf590a)
     )
     (fp_text value "LED" (at 3.047146 0.096357 6) (layer "F.Fab")
@@ -11094,7 +11094,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/b4b68a17-b335-4175-9d1b-1ae6ef868f25")
     (attr smd)
     (fp_text reference "D43" (at -0.000001 -1.819999 72) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 80c26d17-76b0-4d5b-948e-f41f4816344b)
     )
     (fp_text value "LED" (at 3.116919 -0.158533 72) (layer "F.Fab")
@@ -11154,7 +11154,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/bae6187f-dff0-49a5-84cd-f1c678d0aea1")
     (attr smd)
     (fp_text reference "C21" (at 3.5288 0 -270) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 757ac8ee-a2ec-4734-a94a-598656781105)
     )
     (fp_text value "100n" (at 0 1.85 -270) (layer "F.Fab")
@@ -11210,7 +11210,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/b8ea9b3c-d60b-4214-9a87-e92edc8b9cca")
     (attr smd)
     (fp_text reference "R23" (at 0 -1.820001 150) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 38b7ed65-6c74-4ad8-b702-970c89821e0d)
     )
     (fp_text value "68" (at 0 1.82 150) (layer "F.Fab") hide
@@ -11266,7 +11266,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/8bd90b15-d483-4a9a-b40b-d9ea0bf001c8")
     (attr smd)
     (fp_text reference "R1" (at 0 -1.82) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp a636c334-be61-400d-8fef-6850d1adf6f5)
     )
     (fp_text value "68" (at 0 1.82) (layer "F.Fab") hide
@@ -11322,7 +11322,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/f08e6bc2-050a-4ebc-a4a9-0cd4d46ab370")
     (attr smd)
     (fp_text reference "D38" (at -0.000001 -1.82 102) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 7e7b82fc-b789-480d-8ecb-32013ec0070e)
     )
     (fp_text value "LED" (at 2.977828 -0.053934 102) (layer "F.Fab")
@@ -11382,7 +11382,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/de1236a5-1a95-431a-8db3-640254b7bf0c")
     (attr smd)
     (fp_text reference "R75" (at 0 -1.82 60) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 13dc0d47-3c7f-44af-a68c-9bb9e091ce04)
     )
     (fp_text value "68" (at 0 1.820001 60) (layer "F.Fab") hide
@@ -11438,7 +11438,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/3bcfc9ec-ceb7-44b6-be60-8bd1ad083420")
     (attr smd)
     (fp_text reference "R72" (at 0.000001 -1.82 78) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 012ebdff-c7db-4084-aa77-cf2625bc2608)
     )
     (fp_text value "68" (at 0 1.82 78) (layer "F.Fab") hide
@@ -11494,7 +11494,7 @@
     (path "/69d1aa57-8f71-4ebb-9edc-ef27666651de")
     (attr smd)
     (fp_text reference "F1" (at 0 1.905) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp faca31af-a031-4b22-8ed3-ba8f2f9efd49)
     )
     (fp_text value "350m" (at 0 1.82) (layer "F.Fab")
@@ -11550,7 +11550,7 @@
     (path "/012d6e3c-97ca-4a45-a32c-a56ad352414b/c0771e60-747a-4cc3-8415-a49f142fb98f")
     (attr smd)
     (fp_text reference "U5" (at 0 -6.2) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp db9f930e-fec0-49f0-8109-47b66c58624e)
     )
     (fp_text value "74HC595" (at 0 6.2) (layer "F.Fab")
@@ -11653,7 +11653,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/2cf0ebed-727b-4cfc-a342-4859193a174d")
     (attr smd)
     (fp_text reference "D74" (at 0 -1.82 66) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 470c58c6-adfb-4b90-8e5d-a81bc2f853ea)
     )
     (fp_text value "LED" (at 3.084382 -0.141045 66) (layer "F.Fab")
@@ -11713,7 +11713,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/528cf613-75f8-4b9b-8027-57b39062600a")
     (attr smd)
     (fp_text reference "D56" (at 0 -1.819999 174) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 82ceb376-e333-4b94-a263-9bc1d719ae9c)
     )
     (fp_text value "LED" (at 3.047146 -0.096357 174) (layer "F.Fab")
@@ -11773,7 +11773,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/889726c0-65b4-4317-b562-43976f5f0c4a")
     (attr smd)
     (fp_text reference "D18" (at 0 -1.82 120) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp cc5013d5-cd8c-4f03-a1d1-62f1723737cf)
     )
     (fp_text value "LED" (at 3.093591 -0.018257 120) (layer "F.Fab")
@@ -11833,7 +11833,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/5d815ef8-1144-404c-ba65-2d687621f381")
     (attr smd)
     (fp_text reference "R42" (at 0 -1.82 78) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp e0362555-b246-44a3-9103-7976162945b1)
     )
     (fp_text value "68" (at -0.000001 1.82 78) (layer "F.Fab") hide
@@ -11889,7 +11889,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/a4f6549b-7b05-4fa8-9ffd-b0d47f14a512")
     (attr smd)
     (fp_text reference "D11" (at 0 -1.82 60) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 4d0a072f-b518-4dac-a7fc-22d5bfbefecd)
     )
     (fp_text value "LED" (at 0 1.820001 60) (layer "F.Fab")
@@ -11949,7 +11949,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/2785b22c-e3ca-43d5-a26d-19a59314b99c")
     (attr smd)
     (fp_text reference "D42" (at 0 -1.819999 78) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp b9696344-0863-4e12-8b50-ace57bdf4c58)
     )
     (fp_text value "LED" (at 3.226278 0.001124 78) (layer "F.Fab")
@@ -12009,7 +12009,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/9559df1e-fbed-40b8-8b42-3ad0a4a11ba1")
     (attr smd)
     (fp_text reference "D28" (at -0.000001 -1.82 162) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 88d97068-2ed4-47c8-bfff-c7d872e8c0bd)
     )
     (fp_text value "LED" (at 3.195411 0.083035 162) (layer "F.Fab")
@@ -12069,7 +12069,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/97e28fbf-e2d8-43d9-9b9f-3f1b79bfc6f4")
     (attr smd)
     (fp_text reference "C25" (at -0.967 -1.651) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 045578c8-0c14-4a7b-be4a-f1ca373a0049)
     )
     (fp_text value "100n" (at 0 -1.778) (layer "F.Fab")
@@ -12125,7 +12125,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/95287baf-f91e-4732-8058-e9aaf805007e")
     (attr smd)
     (fp_text reference "D69" (at 0.000001 -1.82 96) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 232284de-fb4b-474a-aac2-593d59b285d1)
     )
     (fp_text value "LED" (at 3.073697 -0.15625 96) (layer "F.Fab")
@@ -12185,7 +12185,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/88602775-54de-4e25-bd4c-50ae40aee3b3")
     (attr smd)
     (fp_text reference "R65" (at 0 -1.82 120) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp f7832283-91ae-4865-87d2-743d2180fbea)
     )
     (fp_text value "68" (at 0 1.820001 120) (layer "F.Fab") hide
@@ -12241,7 +12241,7 @@
     (path "/c6ca8a31-bfb1-4412-8295-a7e27a80b7dc")
     (attr smd)
     (fp_text reference "R97" (at -3.302 1.778) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 48bc3ec8-b724-470d-96d8-ed778eac0755)
     )
     (fp_text value "1k" (at 0 1.82) (layer "F.Fab")
@@ -12297,7 +12297,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/6f67f04e-4854-46d3-beda-9b8104c497ed")
     (attr smd)
     (fp_text reference "R70" (at 0 -1.82 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 100402a8-5061-4053-a3c4-e1d325defdf3)
     )
     (fp_text value "68" (at 0 1.82 90) (layer "F.Fab") hide
@@ -12353,7 +12353,7 @@
     (path "/012d6e3c-97ca-4a45-a32c-a56ad352414b/bde1fbb9-4480-4cfa-993c-111ad5652139")
     (attr smd)
     (fp_text reference "C9" (at 0.7348 -1.85) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 5f22a395-c428-4413-8bb5-359087bd50a1)
     )
     (fp_text value "100n" (at 0 1.85) (layer "F.Fab")
@@ -12409,7 +12409,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/ba132bf0-2f68-44b4-8718-33c602a5d49b")
     (attr smd)
     (fp_text reference "R69" (at 0.000001 -1.819999 96) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp aed6fa30-3981-495a-ae72-e245b0e1ada3)
     )
     (fp_text value "68" (at 0 1.82 96) (layer "F.Fab") hide
@@ -12465,7 +12465,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/947149bb-57f9-4030-a71f-091eab3fa700")
     (attr smd)
     (fp_text reference "D48" (at 0 -1.819999 42) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp f69e01e5-87ad-44d0-8267-16104c421d9f)
     )
     (fp_text value "LED" (at 3.137959 0.014223 42) (layer "F.Fab")
@@ -12525,7 +12525,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/d86771a1-7ce1-43ad-8521-7344fc2b28a9")
     (attr smd)
     (fp_text reference "C27" (at 1.319 2.54 90) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 078013a9-70af-4438-aca9-3daa730dff7a)
     )
     (fp_text value "100n" (at 0 1.85) (layer "F.Fab")
@@ -12581,7 +12581,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/df7aac93-fe8b-4f1e-862d-b4ffb7b67228")
     (attr smd)
     (fp_text reference "R11" (at 0 -1.82 60) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 68e21f31-315b-4342-ac9e-223ce4fa40af)
     )
     (fp_text value "68" (at 0 1.820001 60) (layer "F.Fab") hide
@@ -12637,7 +12637,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/c592e0c6-2488-44a1-81a4-36a0e7eb542b")
     (attr smd)
     (fp_text reference "D64" (at 0 -1.82 126) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 59f31327-9238-44db-ba20-80d26df29471)
     )
     (fp_text value "LED" (at 3.065871 -0.139394 126) (layer "F.Fab")
@@ -12697,7 +12697,7 @@
     (path "/905de32e-38a1-4aba-abd3-8742eea67b99")
     (attr smd)
     (fp_text reference "U1" (at 0 -6.65 180) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9028d121-8501-4ac8-8e0d-56701fe87976)
     )
     (fp_text value "LD1117S33TR" (at 0 6.65 180) (layer "F.Fab")
@@ -12796,7 +12796,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/be31a2cd-fd71-4ef4-983c-8bb3d5067449")
     (attr smd)
     (fp_text reference "C23" (at 4.445 0 90) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 6489d837-1303-41ac-93aa-d1e48b5c938c)
     )
     (fp_text value "100n" (at 0 -1.651 90) (layer "F.Fab")
@@ -12852,7 +12852,7 @@
     (path "/073df573-aad9-4a67-84a5-ddc38adde0b0")
     (attr smd)
     (fp_text reference "C4" (at 0 2.413 90) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 3fa65c22-4be5-4b64-af54-f76d0bf291b2)
     )
     (fp_text value "47u" (at 0 2.55 90) (layer "F.Fab")
@@ -12912,7 +12912,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/ed384be7-5841-4c23-bb60-cc60e041c2bc")
     (attr smd)
     (fp_text reference "D82" (at 0 -1.82 18) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 033d73da-28e0-463f-a2cc-b9a0e3a6b656)
     )
     (fp_text value "LED" (at 3.116921 0.158533 18) (layer "F.Fab")
@@ -12972,7 +12972,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/fc13b357-e26a-4e64-8366-4ab372cd87b3")
     (attr through_hole)
     (fp_text reference "J7" (at 0 -2.77 90) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 329aee0b-4d72-4381-9c5d-476334c3c153)
     )
     (fp_text value "Conn_01x21_Socket" (at -2.159 25.4 180) (layer "F.Fab")
@@ -13076,7 +13076,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/0483997e-181c-45c6-a702-f5ae46536e10")
     (attr smd)
     (fp_text reference "R82" (at 0.000001 -1.82 18) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 23b36e13-d8b8-48ff-aa71-42af0aa083ec)
     )
     (fp_text value "68" (at 0 1.819999 18) (layer "F.Fab") hide
@@ -13132,7 +13132,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/ea00be17-d286-4b30-ab28-4165ce59a411")
     (attr smd)
     (fp_text reference "R64" (at 0 -1.819999 126) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp de0ad040-48b7-4e2c-84b6-e390306fc11e)
     )
     (fp_text value "68" (at 0.000001 1.820001 126) (layer "F.Fab") hide
@@ -13188,7 +13188,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/466712c3-a018-4a96-b8c7-62df5fd59134")
     (attr smd)
     (fp_text reference "D51" (at 0 -1.819999 24) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp ccf3b961-7ed0-4396-bc8d-3ce0fc28a1b7)
     )
     (fp_text value "LED" (at 3.187691 -0.090995 24) (layer "F.Fab")
@@ -13248,7 +13248,7 @@
     (path "/8c079328-3777-4bce-be77-38b72aa6fe0d")
     (attr exclude_from_pos_files)
     (fp_text reference "FID1" (at 0 0 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 8dfa0b77-58f0-4fa6-a948-23e0bfc6c415)
     )
     (fp_text value "BIN" (at 0.75 0 90) (layer "F.Fab") hide
@@ -13802,7 +13802,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/5d291870-a5c7-4e04-aeaa-e53797c84819")
     (attr smd)
     (fp_text reference "R83" (at 0 -1.82 12) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 4466e9e3-a8e6-4ed4-8aa5-4a95934e657f)
     )
     (fp_text value "68" (at 0.000001 1.82 12) (layer "F.Fab") hide
@@ -13858,7 +13858,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/3d453fe6-55c3-4daa-94a7-d97b5363de47")
     (attr smd)
     (fp_text reference "R18" (at 0 -1.82 120) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp b3cfeccb-9a60-45b9-9314-4a30f2f3dc73)
     )
     (fp_text value "68" (at 0 1.820001 120) (layer "F.Fab") hide
@@ -13914,7 +13914,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/d4c8d35e-3e13-49d9-8121-8d43c7bf092c")
     (attr smd)
     (fp_text reference "R66" (at 0 -1.819999 114) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 56e6977b-a68b-4e88-a229-7335854b6e69)
     )
     (fp_text value "68" (at 0 1.82 114) (layer "F.Fab") hide
@@ -13970,7 +13970,7 @@
     (path "/b719b3e7-d539-429f-8b78-a16a9d859d44")
     (attr exclude_from_pos_files)
     (fp_text reference "FID2" (at 0 0 -270) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 75b85418-c9f6-48fd-849d-e4636116b96b)
     )
     (fp_text value "OH" (at 0.75 0 -270) (layer "F.Fab") hide
@@ -15162,7 +15162,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/c92a9926-8166-4eeb-b976-11a7ef8ae2be")
     (attr smd)
     (fp_text reference "R48" (at -0.000001 -1.82 42) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 588fd891-b437-4afc-99b4-59785ec3011d)
     )
     (fp_text value "68" (at -0.000001 1.82 42) (layer "F.Fab") hide
@@ -15218,7 +15218,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/84dbd7dd-4d81-492f-8623-7a0b94758636")
     (attr smd)
     (fp_text reference "R80" (at 0 -1.820001 30) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 37998f24-ecbd-4a88-a314-e47bba668600)
     )
     (fp_text value "68" (at 0 1.82 30) (layer "F.Fab") hide
@@ -15274,7 +15274,7 @@
     (path "/d3886187-c333-4d38-88e8-dd568179c765")
     (attr smd)
     (fp_text reference "R91" (at -4.7874 0.5842 90) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp f5a15506-ccf4-4791-a7fc-2d256178ced5)
     )
     (fp_text value "0" (at -2.095 0.127 90) (layer "F.Fab")
@@ -15330,7 +15330,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/a8156b72-4a61-4d50-9d2e-1eb1a407caa6")
     (attr smd)
     (fp_text reference "D80" (at 0 -1.820001 30) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp b47e730b-4651-4e90-88e8-35958bcc8f72)
     )
     (fp_text value "LED" (at 3.175098 0.001789 30) (layer "F.Fab")
@@ -15392,7 +15392,7 @@
     (path "/7a21d797-6912-487e-a203-674644a0594f")
     (attr smd)
     (fp_text reference "D91" (at -4.826 -2.794 -90) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 756533a9-4e34-49bd-a31d-2ccaccea11cb)
     )
     (fp_text value "MBR0520LT1G" (at 0.889 2.1) (layer "F.Fab")
@@ -15464,7 +15464,7 @@
     (path "/bc64c45d-a83b-498d-996f-6b897eb8cde5")
     (attr exclude_from_pos_files)
     (fp_text reference "H4" (at 0 -3.8) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 0ced35fc-c5c8-40fb-9380-03cd1ae292cc)
     )
     (fp_text value "M3" (at 0 3.8) (layer "F.Fab")
@@ -15497,7 +15497,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/1c04d022-7e5b-4cbe-9cb4-3cb8d6783add")
     (attr smd)
     (fp_text reference "R81" (at 0.000001 -1.82 24) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 9efd842d-2896-431f-82af-4073c7e76729)
     )
     (fp_text value "68" (at 0.000001 1.819999 24) (layer "F.Fab") hide
@@ -15553,7 +15553,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/789debb5-ed9a-4bc4-b3ba-0fb500180e2b")
     (attr smd)
     (fp_text reference "D9" (at 0 -1.82 120) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 696dd28e-210b-4fee-b049-64d0ac7b2f5c)
     )
     (fp_text value "LED" (at 0 1.820001 120) (layer "F.Fab")
@@ -15613,7 +15613,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/0ef443ae-661d-4a7f-b1fe-2b2de8f3776d")
     (attr smd)
     (fp_text reference "R14" (at 0 -1.820001 60) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 1404d76f-173b-4661-84e8-f6345ff2a53a)
     )
     (fp_text value "68" (at 0 1.82 60) (layer "F.Fab") hide
@@ -15669,7 +15669,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/672d68e5-0fbd-4367-8dc3-a7c516a480c4")
     (attr smd)
     (fp_text reference "D61" (at 0.000001 -1.82 144) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp eca2e6db-c84c-4a3e-a268-f81924f188b3)
     )
     (fp_text value "LED" (at 3.122064 -0.215392 144) (layer "F.Fab")
@@ -15729,7 +15729,7 @@
     (path "/97e5721b-8541-4234-a450-7c411576a95e")
     (attr exclude_from_pos_files)
     (fp_text reference "H1" (at 0 -3.8 90) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp b7cf27d2-d283-47aa-8152-06d807459006)
     )
     (fp_text value "M3" (at 0 3.8 90) (layer "F.Fab")
@@ -15762,7 +15762,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/176d454e-4cb0-4605-98d0-47eada779927")
     (attr smd)
     (fp_text reference "D17" (at 0 -1.82 150) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp f1160293-68a1-4226-94ab-69e7aa30055a)
     )
     (fp_text value "LED" (at 3.049788 -0.045612 150) (layer "F.Fab")
@@ -15822,7 +15822,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/89d66f99-e937-4596-90b1-7d54f0430687")
     (attr smd)
     (fp_text reference "D15" (at 0 -1.82 30) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 6429a9e5-ba00-409a-8ab2-f99852bc2963)
     )
     (fp_text value "LED" (at 3.093591 -0.018257 30) (layer "F.Fab")
@@ -15882,7 +15882,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/2d2e43fe-1bcc-4f87-b179-2a8f5e6f7684")
     (attr smd)
     (fp_text reference "D19" (at 0 -1.82 -270) (layer "F.SilkS") hide
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 2eae2de5-fa25-4a7b-bf9d-589f3a56e93b)
     )
     (fp_text value "LED" (at 3.048 0.006 -270) (layer "F.Fab")
@@ -15942,7 +15942,7 @@
     (path "/898409c8-e36d-4fda-892f-5c39652b8bce")
     (attr smd)
     (fp_text reference "R89" (at 0 -1.43) (layer "F.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)))
+        (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp f81f8125-18d1-467b-8cb9-96b96e33884e)
     )
     (fp_text value "1k" (at 0 1.43) (layer "F.Fab")
@@ -15996,7 +15996,7 @@
     (path "/32d55987-871e-4a6e-90fe-55ec02974811")
     (attr exclude_from_pos_files)
     (fp_text reference "TP6" (at -1.6256 -0.9652) (layer "B.SilkS")
-        (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 397c6d90-1797-4fc9-a2fb-d8ceab5ac515)
     )
     (fp_text value "TestPoint_Probe" (at 0 -1.55) (layer "B.Fab") hide
@@ -16029,7 +16029,7 @@
     (path "/012d6e3c-97ca-4a45-a32c-a56ad352414b/a4216d3b-fb25-4a28-9dae-a1cd256453c8")
     (attr smd)
     (fp_text reference "C10" (at -4.445 0) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 6bde684e-03c2-4235-ab82-7dd7f7fbc99b)
     )
     (fp_text value "100n" (at 0 -1.85) (layer "B.Fab")
@@ -16085,7 +16085,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/cee92bc3-b74d-44fe-a8bf-c7f47d8d3525")
     (attr smd)
     (fp_text reference "R87" (at 1.905 1.397 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 38ce80f5-8bb9-4c88-9fb9-d91aa5305f45)
     )
     (fp_text value "270" (at 0 1.27 90) (layer "B.Fab")
@@ -16141,7 +16141,7 @@
     (path "/f94b04e1-3894-4ea3-af9e-d8363936d009")
     (attr smd)
     (fp_text reference "D90" (at 0 -2.286 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 76bd9c3f-8a64-47b1-ad5a-e092f2196cba)
     )
     (fp_text value "LED" (at 0 -1.43 90) (layer "B.Fab")
@@ -16201,7 +16201,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/a56f52a5-0a31-46ff-b69e-f1eacfde7d37")
     (attr smd)
     (fp_text reference "U10" (at 0 6.2) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 2b6f0ee9-a97f-444f-9818-88affe1501aa)
     )
     (fp_text value "74HC595" (at 0 -6.2) (layer "B.Fab")
@@ -16304,7 +16304,7 @@
     (path "/b72e40c1-dff6-4de1-b4a8-6c9e056950b9")
     (attr smd)
     (fp_text reference "C31" (at 0.5204 -2.54 -90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 8b65aa28-b2a0-4ce6-bb72-1e4342668b3c)
     )
     (fp_text value "22p" (at 0 -1.43 90) (layer "B.Fab")
@@ -16360,7 +16360,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/c4924935-c3b3-45e6-b58c-dcc5ebd557f4")
     (attr smd)
     (fp_text reference "D87" (at 1.524 -4.699 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 8c2e3032-ca1b-4cd9-ab8e-53300ac93957)
     )
     (fp_text value "LED" (at -2.159 0 90) (layer "B.Fab")
@@ -16420,7 +16420,7 @@
     (path "/76ea41c6-3555-4943-ade8-f3315e66d076")
     (attr smd)
     (fp_text reference "R93" (at 3.048 0) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 05bc822d-723b-4872-a95c-d96d0d39cad8)
     )
     (fp_text value "100" (at 2.54 0) (layer "B.Fab")
@@ -16474,7 +16474,7 @@
     (path "/19be9fcd-3247-40a6-9013-1ed451f11be0")
     (attr exclude_from_pos_files)
     (fp_text reference "TP1" (at -3.175 0.127) (layer "B.SilkS")
-        (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp e64008db-3c24-40c5-90a5-f34a27264d30)
     )
     (fp_text value "TestPoint_Probe" (at 0 -1.55) (layer "B.Fab") hide
@@ -16507,7 +16507,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/5ff68d24-4ebe-4074-9246-21c39760c7a6")
     (attr through_hole)
     (fp_text reference "J8" (at 0 -53.34) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp e6dad8ad-b51e-425c-a5e7-0f9722173aa5)
     )
     (fp_text value "Conn_01x21_Pin" (at 2.54 -25.4 90) (layer "B.Fab")
@@ -16611,7 +16611,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/4a0700b3-5739-415c-9cdd-87fdcf296ea8")
     (attr through_hole)
     (fp_text reference "J16" (at 0 2.33) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp b0cb6f9c-f998-4cef-b494-8187624133b8)
     )
     (fp_text value "Conn_01x01_Pin" (at -7.62 0.254) (layer "B.Fab")
@@ -16675,7 +16675,7 @@
     (path "/077a993a-eadf-4389-b5c5-ae4553e9989c")
     (attr smd)
     (fp_text reference "C32" (at 1.003 -1.651) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 712f3202-8897-4f43-8419-b573f495e76b)
     )
     (fp_text value "100n" (at 0 -1.43) (layer "B.Fab")
@@ -16731,7 +16731,7 @@
     (path "/b2fa5da8-5616-44dc-9c53-2cba9c434432")
     (attr smd)
     (fp_text reference "SW3" (at 6.604 2.032) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 8e01982b-bbf8-4a1a-9874-7d3b989cac16)
     )
     (fp_text value "SW_SPST" (at -3.81 0 90) (layer "B.Fab")
@@ -16805,7 +16805,7 @@
     (path "/c3d95d80-6837-41de-bceb-9c80bd249e91")
     (attr smd)
     (fp_text reference "C3" (at 4.0145 -2.667 -90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp d3c949aa-6c50-4615-8c7a-e65f9b87852b)
     )
     (fp_text value "10u" (at 0 -2.55 90) (layer "B.Fab")
@@ -16865,7 +16865,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/08cbac59-d853-4fed-b00a-44cdf2a03668")
     (attr smd)
     (fp_text reference "U11" (at 0 6.2 270) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 31eea7b5-f179-4789-989e-6e0b04df739e)
     )
     (fp_text value "74HC595" (at 0 -6.2 270) (layer "B.Fab")
@@ -16966,7 +16966,7 @@
     (path "/2aaa87d1-ab31-49ae-8020-a8851f0aa6aa")
     (attr exclude_from_pos_files)
     (fp_text reference "TP7" (at 0 -1.905 90) (layer "B.SilkS")
-        (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 0c45eed3-ebcb-455f-ba18-7902e90ccc88)
     )
     (fp_text value "TestPoint_Probe" (at 0 -1.55) (layer "B.Fab")
@@ -16999,7 +16999,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/cb854afa-e19f-45e6-8f27-581f551ebd21")
     (attr smd)
     (fp_text reference "D85" (at 2.921 5.08 -90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp ee1f40c5-3e0a-4366-91ea-8c803ae9b4cc)
     )
     (fp_text value "LED" (at -2.159 0 90) (layer "B.Fab")
@@ -17059,7 +17059,7 @@
     (path "/0d92a54c-9253-4147-9a83-77c102f3d75c")
     (attr through_hole)
     (fp_text reference "J4" (at 1.6 3.7 270) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 0a8df83b-a4d7-4d27-b1d6-75a0e13f24ad)
     )
     (fp_text value "USB_OTG" (at 1.5 -2.2 270) (layer "B.Fab")
@@ -17141,7 +17141,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/f384bd7f-4487-4646-b404-d4bde81fc0a6")
     (attr smd)
     (fp_text reference "U13" (at 0 6.2 180) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 15e1a9ba-da35-439a-a59d-6b953a8d8d54)
     )
     (fp_text value "74HC595" (at 0 -6.2 180) (layer "B.Fab")
@@ -17244,7 +17244,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/493f7351-7711-4730-bd9f-6602676631a8")
     (attr smd)
     (fp_text reference "C29" (at 1.7 1.905) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp eb54e2bb-e883-4c8b-b4f7-ad888ed753f7)
     )
     (fp_text value "100n" (at 0 -1.85) (layer "B.Fab")
@@ -17300,7 +17300,7 @@
     (path "/eb4b06e8-1c73-473a-9d52-6f3a3427dcc7")
     (attr smd)
     (fp_text reference "SW1" (at 6.604 2.286) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp dc67cd29-3cc8-476a-a335-526a7e95f3f4)
     )
     (fp_text value "SW_SPST" (at -3.81 0 90) (layer "B.Fab")
@@ -17372,7 +17372,7 @@
     (path "/469b26a8-5591-4ea3-8351-af1d0c1b5505")
     (attr exclude_from_pos_files)
     (fp_text reference "TP5" (at -0.762 1.778) (layer "B.SilkS")
-        (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 6e6205fe-b980-41b1-9393-7aa369b0f706)
     )
     (fp_text value "TestPoint_Probe" (at 0 -1.55) (layer "B.Fab") hide
@@ -17403,7 +17403,7 @@
     (path "/ab348e6a-0921-4f0b-9d99-2ea5d9ab7ad2")
     (attr exclude_from_pos_files)
     (fp_text reference "TP9" (at -1.905 0 180) (layer "B.SilkS")
-        (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp aa2ca114-82fe-4c80-ba35-4b1fbd0c4d7f)
     )
     (fp_text value "TestPoint_Probe" (at 0 -1.55) (layer "B.Fab") hide
@@ -17436,7 +17436,7 @@
     (path "/9c91d828-71b6-49f2-807e-44893f6ebc86")
     (attr smd)
     (fp_text reference "R100" (at -3.556 -0.381 270) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp ff205291-8d4c-4333-9f40-73c746e63a8d)
     )
     (fp_text value "10k" (at -2.413 0 90) (layer "B.Fab")
@@ -17492,7 +17492,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/74e6738e-5a94-4d41-a358-bd7f33e44ede")
     (attr smd)
     (fp_text reference "U12" (at 0 6.2 270) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 20109248-0579-4267-aa26-5bf30e6e3506)
     )
     (fp_text value "74HC595" (at 0 -6.2 270) (layer "B.Fab")
@@ -17595,7 +17595,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/aae751a1-3dbf-4c1a-b944-c4445647b132")
     (attr through_hole)
     (fp_text reference "J15" (at 0 2.33) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp e3a3fabe-1a93-4b24-8f77-b59e88bd7cc6)
     )
     (fp_text value "Conn_01x01_Pin" (at -7.62 0.254) (layer "B.Fab")
@@ -17659,7 +17659,7 @@
     (path "/012d6e3c-97ca-4a45-a32c-a56ad352414b/22738349-f6aa-4c15-a282-bbd9be786066")
     (attr smd)
     (fp_text reference "U6" (at 0 6.2) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp fc7ea254-0d5a-43bf-ad44-b55bf1ec255a)
     )
     (fp_text value "74HC595" (at 0 -6.2) (layer "B.Fab")
@@ -17762,7 +17762,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/935ee031-a77c-4f1d-ae84-e35c32fee7c0")
     (attr smd)
     (fp_text reference "D86" (at 1.524 -5.08 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 5432b103-12d9-4b21-ba21-7eb148282f6e)
     )
     (fp_text value "LED" (at -2.159 -0.127 90) (layer "B.Fab")
@@ -17822,7 +17822,7 @@
     (path "/c35cf18b-3dac-423c-9aa9-85d348d6f922")
     (attr smd)
     (fp_text reference "D89" (at 3.5305 -0.889 -90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp a5615fef-e64a-4fbb-bff0-efeea18a071d)
     )
     (fp_text value "LED" (at 0 -1.43 90) (layer "B.Fab")
@@ -17882,7 +17882,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/8bf694e5-2cb4-4cf3-9ca7-dd0931514932")
     (attr smd)
     (fp_text reference "R86" (at 1.778 -1.27 270) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp b0ea77e5-20a4-4d72-bf0a-7ec5a2516fbf)
     )
     (fp_text value "100" (at 0 -1.43 90) (layer "B.Fab")
@@ -17936,7 +17936,7 @@
     (path "/d7919417-813b-4bd0-b4ec-026d6f4505d6")
     (attr exclude_from_pos_files)
     (fp_text reference "TP8" (at -0.635 1.524 180) (layer "B.SilkS")
-        (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 425e1e15-cb70-4681-86bb-6f3d84aa642a)
     )
     (fp_text value "TestPoint_Probe" (at 0 -1.55) (layer "B.Fab") hide
@@ -17969,7 +17969,7 @@
     (path "/15e17ee8-2ed1-4362-9aba-2c0ca6cc215e")
     (attr through_hole)
     (fp_text reference "BZ1" (at 10.16 -0.127 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 6dca7e68-e750-4e61-91d3-1a4212624b4d)
     )
     (fp_text value "Buzzer" (at 3.25 -7) (layer "B.Fab")
@@ -18021,7 +18021,7 @@
     (path "/4dc714dc-25a6-4f6a-b27f-05dd9530ef84")
     (attr smd)
     (fp_text reference "C2" (at 0 2.35 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp ec5d03b6-977a-4dad-8889-b91517146407)
     )
     (fp_text value "1u" (at 0 -2.35 90) (layer "B.Fab")
@@ -18081,7 +18081,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/f4df916d-58b6-4c1a-a1bd-bef105c7bef7")
     (attr smd)
     (fp_text reference "U9" (at 0 6.2 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 2948e12c-2450-48d4-81b7-d5eb55de5c27)
     )
     (fp_text value "74HC595" (at 0 -6.2 90) (layer "B.Fab")
@@ -18182,7 +18182,7 @@
     (path "/63b9e4fd-06b3-4c6a-84c0-e5b9d015a588")
     (attr exclude_from_pos_files)
     (fp_text reference "TP4" (at 0.508 -1.8542 270) (layer "B.SilkS")
-        (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 81e4fbaa-75a2-440e-9dbe-3917c8ca21bf)
     )
     (fp_text value "TestPoint_Probe" (at 0 -1.55) (layer "B.Fab") hide
@@ -18215,7 +18215,7 @@
     (path "/62151f83-6851-42f3-b61f-f9b519238261")
     (attr through_hole)
     (fp_text reference "J3" (at 0.381 2.032 -90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 9eaeabd6-e765-407b-8bfe-1b7d29a094e0)
     )
     (fp_text value "Conn_01x03_Pin" (at -2.032 0.127 -180) (layer "B.Fab")
@@ -18283,7 +18283,7 @@
     (path "/9dedb35e-aeab-4c3f-936d-be8067d8512f")
     (attr smd)
     (fp_text reference "U15" (at 0 3.4) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 1969b58a-9ec5-4a70-97d5-e7115bd85d87)
     )
     (fp_text value "MCP7940N-xMS" (at 0 -3.4) (layer "B.Fab")
@@ -18366,7 +18366,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/91893541-0c9b-4eb0-944e-00256935576b")
     (attr smd)
     (fp_text reference "D88" (at 1.524 -4.318 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp ebe2a345-dd81-4fd3-963e-0369cbc9e023)
     )
     (fp_text value "LED" (at -2.159 0 90) (layer "B.Fab")
@@ -18426,7 +18426,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/2d21839e-ec44-4713-8aca-51087d7a701f")
     (attr through_hole)
     (fp_text reference "J10" (at 0 2.33 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 7ccd5253-1c77-4c51-ac8a-5811572a6883)
     )
     (fp_text value "Conn_01x21_Pin" (at 2.54 -25.4 180) (layer "B.Fab")
@@ -18530,7 +18530,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/87a89efa-fee6-4087-a6f2-55eb3db32ab7")
     (attr smd)
     (fp_text reference "U14" (at 0 6.2 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 848c8882-d02b-4453-9392-e88673868502)
     )
     (fp_text value "74HC595" (at 0 -6.2 90) (layer "B.Fab")
@@ -18633,7 +18633,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/d86f5acc-7d1e-4a0f-adcb-282cfd358e27")
     (attr smd)
     (fp_text reference "C20" (at 4.621 -1.397 -90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 46ae824b-99dc-4b24-a0f4-573aeeb70cb6)
     )
     (fp_text value "100n" (at 0 -1.85 90) (layer "B.Fab")
@@ -18689,7 +18689,7 @@
     (path "/dac165ea-97f3-4755-85b6-26d8589120db")
     (attr smd)
     (fp_text reference "SW2" (at 6.604 -2.413) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp d790de28-8534-4a54-b1b5-2a3ede48e8a7)
     )
     (fp_text value "SW_SPST" (at -3.81 0 90) (layer "B.Fab")
@@ -18763,7 +18763,7 @@
     (path "/6b5fedbf-af50-4a60-8638-0b5b9839aa6f")
     (attr smd)
     (fp_text reference "R92" (at 3.048 0.381) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp cb242aff-7760-4c6d-a980-526661945947)
     )
     (fp_text value "100" (at 2.54 0) (layer "B.Fab")
@@ -18819,7 +18819,7 @@
     (path "/85ffba4c-a8fa-4361-885e-ec37f070c4fb")
     (attr smd)
     (fp_text reference "Y1" (at 3.2258 0 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 70249c30-3ad8-4b0c-b985-7f86ec7488a2)
     )
     (fp_text value "32.768kHz" (at -5.715 -0.127 90) (layer "B.Fab")
@@ -18875,7 +18875,7 @@
     (path "/6af8e39b-be6c-4878-8c8c-04f15bc688c5")
     (attr through_hole)
     (fp_text reference "J1" (at 0 2.33 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp e9206b34-a985-4494-8318-b53a1f2a6d3d)
     )
     (fp_text value "Conn_01x02_Pin" (at 2.54 1.519 -180) (layer "B.Fab")
@@ -18939,7 +18939,7 @@
     (path "/dca61ec4-9c10-4c01-acef-31243c1ab177")
     (attr exclude_from_pos_files)
     (fp_text reference "TP2" (at -4.953 -0.254) (layer "B.SilkS")
-        (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 05cb422a-6e8c-464c-b6a3-efe1a1df183f)
     )
     (fp_text value "TestPoint_Probe" (at 0 -1.55) (layer "B.Fab") hide
@@ -18970,7 +18970,7 @@
     (path "/6e91e3fd-a7e5-4309-b38a-3e1f50de4fee")
     (attr exclude_from_pos_files)
     (fp_text reference "TP3" (at 1.905 -1.905 90) (layer "B.SilkS")
-        (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp fefd8bb8-54ab-4342-880f-dae2026f6c9a)
     )
     (fp_text value "TestPoint_Probe" (at 0 -1.55) (layer "B.Fab") hide
@@ -19003,7 +19003,7 @@
     (path "/81a13345-dfbc-481b-b94b-99ed5a050322")
     (attr smd)
     (fp_text reference "C30" (at 2.1714 -3.556 180) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 8f50210c-5c2b-411a-a459-de10e4b5942f)
     )
     (fp_text value "22p" (at 0 1.397 90) (layer "B.Fab")
@@ -19059,7 +19059,7 @@
     (path "/8c534076-548d-49fe-953c-73f931a8d367")
     (attr smd)
     (fp_text reference "C6" (at -0.254 -2.54 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp cd5cf1e5-9b59-4607-b192-c76d0980b722)
     )
     (fp_text value "47u" (at 0 -2.55 90) (layer "B.Fab")
@@ -19119,7 +19119,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/a18ed8e3-10a8-463e-a0fe-bb82600cece4")
     (attr smd)
     (fp_text reference "R88" (at 4.064 0.7874) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 5804689b-8a26-4538-8bb5-356e1629e72f)
     )
     (fp_text value "270" (at 0 1.2954) (layer "B.Fab")
@@ -19173,7 +19173,7 @@
     (path "/ece6a5c3-db1e-4a62-af3d-b4de4529bddd")
     (attr exclude_from_pos_files)
     (fp_text reference "TP10" (at -1.016 1.27) (layer "B.SilkS")
-        (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 70e5e9c1-747a-49f5-acd6-04dda90bd9b4)
     )
     (fp_text value "TestPoint_Probe" (at 0 -1.55) (layer "B.Fab") hide
@@ -19206,7 +19206,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/5bc31465-85f7-4385-9206-53e953bb0c9f")
     (attr through_hole)
     (fp_text reference "J13" (at 0 -53.34) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp e1467d5d-a972-41d5-8f52-1b763615e9c7)
     )
     (fp_text value "Conn_01x21_Pin" (at 2.54 -25.4 90) (layer "B.Fab")
@@ -19310,7 +19310,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/fdc1923a-23a7-4b7f-80b1-a7bb83e0d97a")
     (attr smd)
     (fp_text reference "U8" (at 0 6.2 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 4fad70b5-3ce7-42e6-a449-c49125e4b370)
     )
     (fp_text value "74HC595" (at 0 -6.2 90) (layer "B.Fab")
@@ -19413,7 +19413,7 @@
     (path "/3d4dc377-eece-4328-a063-3bac4f64f162")
     (attr smd)
     (fp_text reference "SW4" (at 6.604 -2.413) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 61015be1-6aa4-4ffd-bee6-63dfc5766f75)
     )
     (fp_text value "SW_SPST" (at -3.81 0 90) (layer "B.Fab")
@@ -19487,7 +19487,7 @@
     (path "/4fa0cd94-43f2-46c6-8fbc-e61728e479d5/7e060e81-1838-4b57-977a-365f83a60217")
     (attr smd)
     (fp_text reference "R85" (at -0.762 3.2766 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 13665450-b14d-4070-b1ba-afff1ace9c9b)
     )
     (fp_text value "100" (at 0 -1.43) (layer "B.Fab")
@@ -19543,7 +19543,7 @@
     (path "/9af79452-b7cc-4f58-9075-bdb55906608d/c60f0999-37d6-432f-84f8-28853997b057")
     (attr through_hole)
     (fp_text reference "J6" (at 0 2.33 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 9061851b-86ae-46e9-92e9-d9f6b7f10081)
     )
     (fp_text value "Conn_01x21_Pin" (at 2.54 -25.4 -180) (layer "B.Fab")
@@ -19645,7 +19645,7 @@
     (path "/9f2dabf3-c3d1-4ef1-a125-d0008a5c675a")
     (attr exclude_from_pos_files)
     (fp_text reference "TP11" (at 0 -1.397 180) (layer "B.SilkS")
-        (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 88b8c26f-4cfe-480e-bdb2-452930010806)
     )
     (fp_text value "TestPoint_Probe" (at 0 -1.55) (layer "B.Fab") hide
@@ -19678,7 +19678,7 @@
     (path "/8273d549-6c5d-47f1-a44c-0c2a901b95c5")
     (attr through_hole)
     (fp_text reference "J2" (at 5.969 -0.132) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 935a31e8-4950-4d34-99d9-fbca22b9310f)
     )
     (fp_text value "Conn_01x02_Pin" (at -5.207 2.662 180) (layer "B.Fab")
@@ -19744,7 +19744,7 @@
     (path "/786aed61-3a56-4b24-a9dd-74c7ed0ddb99")
     (attr smd)
     (fp_text reference "R99" (at -4.064 -0.635 90) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp bb2897fd-5ecf-4ce3-b739-14d2963c4adf)
     )
     (fp_text value "10k" (at -2.54 0 90) (layer "B.Fab")
@@ -19798,7 +19798,7 @@
     (path "/876f438e-801b-4561-8ae1-60b791e09248")
     (attr through_hole)
     (fp_text reference "J5" (at -1.422 -7.112 180) (layer "B.SilkS")
-        (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+        (effects (font (size 0.75 0.75) (thickness 0.12)) (justify mirror))
       (tstamp 705937b5-99f3-4c6e-a505-b3514e95a1ee)
     )
     (fp_text value "Conn_01x03_Socket" (at 2.261 -10.795 -90) (layer "B.Fab")
