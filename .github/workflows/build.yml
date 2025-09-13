@@ -44,7 +44,7 @@ jobs:
 
   export-freecad:
     env:
-      FREECADVERSION: "0.21.2"
+      FREECADVERSION: "1.0.2"
       FreeCADFileName: "./mechanical/housing.FCStd"
       OutputFolder: "./output"
       PartType: "PartDesign::Body"
@@ -56,13 +56,14 @@ jobs:
     - name: Prepare output directory
       run: |
         mkdir -p ${{ env.OutputFolder }}
+        cp -r ./mechanical ${{ env.OutputFolder }}
         cp ./LICENSE ${{ env.OutputFolder }}
 
     - name: Install FreeCAD
       run: |
-          wget https://github.com/FreeCAD/FreeCAD/releases/download/${{ env.FREECADVERSION }}/FreeCAD-${{ env.FREECADVERSION }}-Linux-x86_64.AppImage
-          chmod 0777 ./FreeCAD-${{ env.FREECADVERSION }}-Linux-x86_64.AppImage
-          ./FreeCAD-${{ env.FREECADVERSION }}-Linux-x86_64.AppImage --appimage-extract
+          wget https://github.com/FreeCAD/FreeCAD/releases/download/${{ env.FREECADVERSION }}/FreeCAD_${{ env.FREECADVERSION }}-conda-Linux-x86_64-py311.AppImage
+          chmod 0777 FreeCAD_${{ env.FREECADVERSION }}-conda-Linux-x86_64-py311.AppImage
+          ./FreeCAD_${{ env.FREECADVERSION }}-conda-Linux-x86_64-py311.AppImage --appimage-extract
     - name: Get FreeCAD Export
       run: |
           git clone https://github.com/0x007E/pyfreecadexport.git
