@@ -17,8 +17,8 @@ The `DIU` project is based on a pcb with an [ATtiny1606](#additional-information
 | Schematic | [pdf](https://github.com/0x007E/diu/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/28616/main/files) | Schematic files |
 | Board | [pdf](https://github.com/0x007E/diu/releases/latest/download/pcb.pdf) / [cadlab](https://cadlab.io/project/28616/main/files) | Board file |
 | Drill | [pdf](https://github.com/0x007E/diu/releases/latest/download/drill.pdf) | Drill file |
-| Gerber | [zip](https://github.com/0x007E/diu/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/diu/releases/latest/download/kicad.tar.gz) | Gerber/Drill files |
-| Housing, PCB | [zip](https://github.com/0x007E/diu/releases/latest/download/freecad.zip) / [tar](https://github.com/0x007E/diu/releases/latest/download/freecad.tar.gz) | Housing and PCB (STEP) files     |
+| PCB | [zip](https://github.com/0x007E/diu/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/diu/releases/latest/download/kicad.tar.gz) | KiCAD/Gerber/BoM/Drill files |
+| Mechanical | [zip](https://github.com/0x007E/diu/releases/latest/download/freecad.zip) / [tar](https://github.com/0x007E/diu/releases/latest/download/freecad.tar.gz) | FreeCAD/Housing and PCB (STEP) files     |
 | Firmware | [zip](https://github.com/0x007E/diu/releases/latest/download/firmware.zip) / [tar](https://github.com/0x007E/diu/releases/latest/download/firmware.tar.gz) | Firmware for ATtiny1606 |
 
 # Hardware
