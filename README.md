@@ -20,6 +20,7 @@ The `DIU` project is based on a pcb with an [ATtiny1606](#additional-information
 | PCB | [zip](https://github.com/0x007E/diu/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/diu/releases/latest/download/kicad.tar.gz) | KiCAD/Gerber/BoM/Drill files |
 | Mechanical | [zip](https://github.com/0x007E/diu/releases/latest/download/freecad.zip) / [tar](https://github.com/0x007E/diu/releases/latest/download/freecad.tar.gz) | FreeCAD/Housing and PCB (STEP) files     |
 | Firmware | [zip](https://github.com/0x007E/diu/releases/latest/download/firmware.zip) / [tar](https://github.com/0x007E/diu/releases/latest/download/firmware.tar.gz) | Firmware for ATtiny1606 |
+| Test-Firmware | [zip](https://github.com/0x007E/diu/releases/latest/download/test-firmware.zip) / [tar](https://github.com/0x007E/diu/releases/latest/download/test-firmware.tar.gz) | Test-Firmware for ATtiny1606 |
 
 # Hardware
 
