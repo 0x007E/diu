@@ -81,16 +81,19 @@ jobs:
       TOOLCHAIN: "3.7.0.1796"
       DFP: "ATtiny_DFP.2.0.368"
       DEVICE: "attiny1606"
-      OutputFolder: "./output"
-      FirmwareName: "DIU_FW_1_0"
+      OUTPUT_FOLDER: "./output"
+      LIBRARY_PATH: "./firmware/lib"
+      PROJECT_PATH: "./firmware/DIU_FW_1_0"
+      FIRMWARE_NAME: "DIU_FW_1_0_t1606"
+      PREPROCESSOR: "-DF_CPU=12000000UL"
     runs-on: ubuntu-latest
     steps:
     - name: Fetch repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
     - name: Copy License
       run: |
-          mkdir ${{ env.OutputFolder }}
-          cp ./LICENSE ${{ env.OutputFolder }}
+          mkdir -p ${{ env.OUTPUT_FOLDER }}
+          cp ./LICENSE ${{ env.OUTPUT_FOLDER }}
     - name: Install zip
       run: sudo apt-get install -y zip
     - name: install-build-tools
@@ -103,55 +106,73 @@ jobs:
           unzip *.atpack -d ./DFP
     - name: build-firmware
       run: |
-          mkdir temp
+          mkdir -p temp
+          rm -rf ./temp/*
 
-          libraries=""
+          build_with_defines() {
+            local defines="$1"
+            local libraries=""
 
-          for dir in ./firmware/lib/*/
-          do
-              name=${dir%*/}
-              echo "Building ${name##*/}"
-
-              first_file=$(ls ./firmware/lib/${name##*/}/*.c| head -1)
-              filename=$(basename -- "$first_file")
+            while read -r file; do
+              local filename=$(basename -- "$file")
               filename="${filename%.*}"
 
-              ./avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -g -x c -O1 -mmcu=${{ env.DEVICE }} -std=gnu99 -B ./DFP/gcc/dev/${{ env.DEVICE }} -I ./DFP/include -c ./firmware/lib/${name##*/}/${filename}.c -o ./temp/${filename}.o
+              ./avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -g -x c -O1 -mmcu=${{ env.DEVICE }} -std=gnu99 \
+                -B ./DFP/gcc/dev/${{ env.DEVICE }} \
+                $defines \
+                -I ./DFP/include -c "${file}" -o "./temp/${filename}.o"
 
               libraries+="./temp/${filename}.o "
-          done
+            done < <(find "${{ env.LIBRARY_PATH }}" -type f -name '*.c')
 
-          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -g -x c -O1 -mmcu=${{ env.DEVICE }} -std=gnu99 -B ./DFP/gcc/dev/${{ env.DEVICE }} -I ./DFP/include -c ./firmware/${{ env.FirmwareName }}/main.c -o ./temp/main.o
-          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -g -mmcu=${{ env.DEVICE }} -B ./DFP/gcc/dev/${{ env.DEVICE }} -I ./DFP/include -o ./temp/main.elf ./temp/main.o ${libraries}
+            echo "$libraries"
+          }
           
-          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-objcopy -j .text -j .data -O ihex ./temp/main.elf ${{ env.OutputFolder }}/${{ env.FirmwareName }}_t1606.hex
-          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-objcopy -j .eeprom --change-section-lma .eeprom=0 -O ihex ./temp/main.elf ${{ env.OutputFolder }}/${{ env.FirmwareName }}_t1606.eep
+          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -g -x c -O1 -mmcu=${{ env.DEVICE }} -std=gnu99 \
+            -B ./DFP/gcc/dev/${{ env.DEVICE }} \
+            -I ./DFP/include \
+            ${{ env.PREPROCESSOR }} \
+            -c ${{ env.PROJECT_PATH }}/main.c -o ./main.o
+          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -g -mmcu=${{ env.DEVICE }} \
+            -B ./DFP/gcc/dev/${{ env.DEVICE }} \
+            -I ./DFP/include \
+            -o ./main.elf ./main.o \
+            ${{ env.PREPROCESSOR }} \
+            $(build_with_defines "${{ env.PREPROCESSOR }}")
+          
+          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-objcopy -j .text -j .data \
+            -O ihex ./main.elf ${{ env.OUTPUT_FOLDER }}/${{ env.FIRMWARE_NAME }}.hex
+          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-objcopy -j .eeprom --change-section-lma .eeprom=0 \
+            -O ihex ./main.elf ${{ env.OUTPUT_FOLDER }}/${{ env.FIRMWARE_NAME }}.eep
 
-          tar -czvf build.tar.gz ${{ env.OutputFolder }}
-          zip -r build.zip ${{ env.OutputFolder }}
+          tar -czvf build.tar.gz ${{ env.OUTPUT_FOLDER }}
+          zip -r build.zip ${{ env.OUTPUT_FOLDER }}
 
     - name: upload-firmware
       uses: actions/upload-artifact@v4
       with:
         name: firmware-build
-        path: ${{ env.OutputFolder }}
+        path: ${{ env.OUTPUT_FOLDER }}
         retention-days: 1
- 
+  
   build-test-firmware:
     env:
       TOOLCHAIN: "3.7.0.1796"
       DFP: "ATtiny_DFP.2.0.368"
       DEVICE: "attiny1606"
-      OutputFolder: "./output"
-      FirmwareName: "DIU_TEST"
+      OUTPUT_FOLDER: "./output"
+      LIBRARY_PATH: "./firmware/lib"
+      PROJECT_PATH: "./firmware/DIU_TEST"
+      FIRMWARE_NAME: "DIU_TEST_t1606"
+      PREPROCESSOR: "-DF_CPU=12000000UL"
     runs-on: ubuntu-latest
     steps:
     - name: Fetch repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
     - name: Copy License
       run: |
-          mkdir ${{ env.OutputFolder }}
-          cp ./LICENSE ${{ env.OutputFolder }}
+          mkdir -p ${{ env.OUTPUT_FOLDER }}
+          cp ./LICENSE ${{ env.OUTPUT_FOLDER }}
     - name: Install zip
       run: sudo apt-get install -y zip
     - name: install-build-tools
@@ -164,40 +185,55 @@ jobs:
           unzip *.atpack -d ./DFP
     - name: build-firmware
       run: |
-          mkdir temp
+          mkdir -p temp
+          rm -rf ./temp/*
 
-          libraries=""
+          build_with_defines() {
+            local defines="$1"
+            local libraries=""
 
-          for dir in ./firmware/lib/*/
-          do
-              name=${dir%*/}
-              echo "Building ${name##*/}"
-
-              first_file=$(ls ./firmware/lib/${name##*/}/*.c| head -1)
-              filename=$(basename -- "$first_file")
+            while read -r file; do
+              local filename=$(basename -- "$file")
               filename="${filename%.*}"
 
-              ./avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -g -x c -O1 -mmcu=${{ env.DEVICE }} -std=gnu99 -B ./DFP/gcc/dev/${{ env.DEVICE }} -I ./DFP/include -c ./firmware/lib/${name##*/}/${filename}.c -o ./temp/${filename}.o
+              ./avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -g -x c -O1 -mmcu=${{ env.DEVICE }} -std=gnu99 \
+                -B ./DFP/gcc/dev/${{ env.DEVICE }} \
+                $defines \
+                -I ./DFP/include -c "${file}" -o "./temp/${filename}.o"
 
               libraries+="./temp/${filename}.o "
-          done
+            done < <(find "${{ env.LIBRARY_PATH }}" -type f -name '*.c')
 
-          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -g -x c -O1 -mmcu=${{ env.DEVICE }} -std=gnu99 -B ./DFP/gcc/dev/${{ env.DEVICE }} -I ./DFP/include -c ./firmware/${{ env.FirmwareName }}/main.c -o ./temp/main.o
-          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -g -mmcu=${{ env.DEVICE }} -B ./DFP/gcc/dev/${{ env.DEVICE }} -I ./DFP/include -o ./temp/main.elf ./temp/main.o ${libraries}
+            echo "$libraries"
+          }
           
-          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-objcopy -j .text -j .data -O ihex ./temp/main.elf ${{ env.OutputFolder }}/${{ env.FirmwareName }}_t1606.hex
-          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-objcopy -j .eeprom --change-section-lma .eeprom=0 -O ihex ./temp/main.elf ${{ env.OutputFolder }}/${{ env.FirmwareName }}_t1606.eep
+          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -g -x c -O1 -mmcu=${{ env.DEVICE }} -std=gnu99 \
+            -B ./DFP/gcc/dev/${{ env.DEVICE }} \
+            -I ./DFP/include \
+            ${{ env.PREPROCESSOR }} \
+            -c ${{ env.PROJECT_PATH }}/main.c -o ./main.o
+          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-gcc -g -mmcu=${{ env.DEVICE }} \
+            -B ./DFP/gcc/dev/${{ env.DEVICE }} \
+            -I ./DFP/include \
+            -o ./main.elf ./main.o \
+            ${{ env.PREPROCESSOR }} \
+            $(build_with_defines "${{ env.PREPROCESSOR }}")
+          
+          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-objcopy -j .text -j .data \
+            -O ihex ./main.elf ${{ env.OUTPUT_FOLDER }}/${{ env.FIRMWARE_NAME }}.hex
+          ./avr8-gnu-toolchain-linux_x86_64/bin/avr-objcopy -j .eeprom --change-section-lma .eeprom=0 \
+            -O ihex ./main.elf ${{ env.OUTPUT_FOLDER }}/${{ env.FIRMWARE_NAME }}.eep
 
-          tar -czvf test-build.tar.gz ${{ env.OutputFolder }}
-          zip -r test-build.zip ${{ env.OutputFolder }}
+          tar -czvf test-build.tar.gz ${{ env.OUTPUT_FOLDER }}
+          zip -r test-build.zip ${{ env.OUTPUT_FOLDER }}
 
     - name: upload-test-firmware
       uses: actions/upload-artifact@v4
       with:
         name: firmware-test-build
-        path: ${{ env.OutputFolder }}
+        path: ${{ env.OUTPUT_FOLDER }}
         retention-days: 1
-
+  
   create-release:
     needs: [export-kicad, export-freecad, build-firmware]
     runs-on: ubuntu-latest
@@ -357,6 +393,16 @@ jobs:
         asset_path: ./artifact/build.tar.gz
         asset_name: firmware.tar.gz
         asset_content_type: application/gzip
+
+    - name: Upload Test Build Asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./artifact/build.zip
+        asset_name: firmware.zip
+        asset_content_type: application/zip
 
     - name: Download Test Build Artifacts
       uses: actions/download-artifact@v4
