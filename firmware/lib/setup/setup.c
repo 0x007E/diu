@@ -474,7 +474,7 @@ static SETUP_Update setup_menu_oscillator(SETUP_Mode mode)
 
                 unsigned char negativ = 0;
 
-                if(input[0] == '-');
+                if(input[0] == '-')
                 {
                     negativ = 1;
                     input[0] = '0';
