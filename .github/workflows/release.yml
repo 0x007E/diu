@@ -85,7 +85,7 @@ jobs:
       LIBRARY_PATH: "./firmware/lib"
       PROJECT_PATH: "./firmware/DIU_FW_1_0"
       FIRMWARE_NAME: "DIU_FW_1_0_t1606"
-      PREPROCESSOR: "-DF_CPU=12000000UL"
+      PREPROCESSOR: "-DF_CPU=20000000UL"
     runs-on: ubuntu-latest
     steps:
     - name: Fetch repository
@@ -164,7 +164,7 @@ jobs:
       LIBRARY_PATH: "./firmware/lib"
       PROJECT_PATH: "./firmware/DIU_TEST"
       FIRMWARE_NAME: "DIU_TEST_t1606"
-      PREPROCESSOR: "-DF_CPU=12000000UL"
+      PREPROCESSOR: "-DF_CPU=20000000UL"
     runs-on: ubuntu-latest
     steps:
     - name: Fetch repository
