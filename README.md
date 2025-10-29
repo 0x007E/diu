@@ -2,6 +2,8 @@
 
 # `DIU` - Digital (Analog) Clock (Digitaluhr)
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/0x007E/diu)
+
 The `DIU` project is based on a pcb with an [ATtiny1606](#additional-information) a RTC [MCP7940](#additional-information) a USB/UART bridge [FT232RL](#additional-information) and a set of [74HC595](#additional-information) shift register. It can be used to display time and date on 84 `LEDs` that are mounted in 3 circles to the top pcb. The clock itself can be setup over UART and a terminal software ([e.g. TeraTerm](#additional-information)).
 
 | Experience | Level |
