@@ -213,7 +213,7 @@ jobs:
         retention-days: 1
   
   create-release:
-    needs: [export-kicad, export-freecad, build-firmware]
+    needs: [export-kicad, export-freecad, build-firmware, build-test-firmware]
     runs-on: ubuntu-latest
     steps:
     - name: Create Release
